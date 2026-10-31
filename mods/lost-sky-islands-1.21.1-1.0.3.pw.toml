@@ -1,0 +1,8 @@
+name = "Lost Sky Islands"
+filename = "lost-sky-islands-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UtOoKVRk/versions/oVQkauln/lost-sky-islands-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "902c61f3fe08da2aa78c7362ae41da991b222a15845e8f1746b52bd42f3bebe861a4e86ba2f7912133f0eac7dcac2d9f1d46323b63075d13aef064c09f07e225"

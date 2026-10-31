@@ -1,0 +1,125 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fans"
+	group: ""
+	icon: {
+		id: "dndesires:industrial_fan"
+	}
+	id: "655FD9D9E7DB0EC5"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2FFED2542AD40AFC"
+			rewards: [
+				{
+					id: "01FC4251F05F87DF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "2EDBBFBAA6BB9830"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2FFED2542AD40AFC"]
+			id: "7F407C1431274E25"
+			rewards: [
+				{
+					id: "3CE7E701F348FD5F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3235605FD99D8B6F"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F407C1431274E25"]
+			id: "3E02ACEA014A1C01"
+			rewards: [
+				{
+					id: "3A975CC1370851D6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "35F7FFF33D572674"
+					item: {
+						count: 1
+						id: "dndesires:freezing_sail"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E02ACEA014A1C01"]
+			id: "78736E09A36C348D"
+			rewards: [
+				{
+					id: "170EB5BE4B3C5D8F"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "23C554D7F5CD41F7"
+					item: {
+						count: 1
+						id: "dndesires:industrial_fan"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78736E09A36C348D"]
+			id: "47385C7A683B68DA"
+			rewards: [
+				{
+					id: "2A7DBB442E8AA742"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "46F76DF5D4CE6A9B"
+					item: {
+						count: 1
+						id: "dndesires:hydraulic_press"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+	]
+}

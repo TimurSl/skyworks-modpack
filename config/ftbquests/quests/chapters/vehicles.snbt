@@ -1,0 +1,388 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vehicles"
+	group: ""
+	icon: {
+		id: "aeronautics:smart_propeller"
+	}
+	id: "3CA8F5487B175644"
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			id: "053A6D8A53C8EB6F"
+			rewards: [
+				{
+					id: "0910C51E8CBCFDAD"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "7FEE7064E6A8DCBF"
+					item: {
+						count: 1
+						id: "aeronautics:aviators_goggles"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["053A6D8A53C8EB6F"]
+			id: "67EFE32ED7217297"
+			rewards: [
+				{
+					id: "490071C6C4CD9497"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1BE991803DE4984A"
+					item: {
+						count: 1
+						id: "aeronautics:smart_propeller"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67EFE32ED7217297"]
+			id: "2BCE767F9AB9192C"
+			rewards: [
+				{
+					id: "0015F847BA5D0216"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0C210AE9C4F3EE68"
+					item: {
+						count: 1
+						id: "aeronautics:gyroscopic_propeller_bearing"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2BCE767F9AB9192C"]
+			id: "287CBEDA12BE6991"
+			rewards: [
+				{
+					id: "2E638500679AB218"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3F3CBFF5DEC416AB"
+					item: {
+						count: 1
+						id: "simulated:navigation_table"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "1E6EF85A0D6A743D"
+			rewards: [
+				{
+					id: "7B6088DAC0C906B0"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1371E84405225C99"
+					item: {
+						count: 1
+						id: "simulated:docking_connector"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "51AA85EBCA2AB5EA"
+			rewards: [
+				{
+					id: "73E944525D626969"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "557217CA69E6B4A6"
+					item: {
+						count: 1
+						id: "simulated:rope_winch"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "6993A02DD08DEE82"
+			rewards: [
+				{
+					id: "02CD8861C2883E27"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "043A4023DB08D89E"
+					item: {
+						count: 1
+						id: "simulated:altitude_sensor"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "39D8C348787F37F5"
+			rewards: [
+				{
+					id: "22562D2E27EDEB4B"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "34449F2DFC9A4256"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "73BE0F0BDFA1984A"
+			rewards: [
+				{
+					id: "6286C6A63B57C8F4"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 2L
+					id: "1C79E43C1FF0A60A"
+					item: {
+						count: 1
+						id: "offroad:wheel_mount"
+					}
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "38888C39EE42BDEC"
+					item: {
+						count: 1
+						id: "offroad:tire"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "671D5C90804C60D5"
+			rewards: [
+				{
+					id: "657E86E674466AA1"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6ED179EEA8A5CD2E"
+					item: {
+						count: 1
+						id: "offroad:borehead_bearing"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "39626EE2A800A898"
+			rewards: [
+				{
+					id: "003412286E40AE20"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1560245AD1D323C8"
+					item: {
+						count: 1
+						id: "create_jetpack:jetpack"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "0B98054EBE7A95CA"
+			rewards: [
+				{
+					id: "0DA3AB849A073384"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "19FD89D1261E0A5E"
+					item: {
+						count: 1
+						id: "grapplemod:grappling_hook"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "0AC1F932FE649DE5"
+			rewards: [
+				{
+					id: "315B2E0A5090D1DE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "36DAC549C92B1CDD"
+					item: {
+						count: 1
+						id: "createpropulsion:thruster"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "30F541F503D618A2"
+			rewards: [
+				{
+					id: "571624C1BAE124B0"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "1E7EEF752DCFD188"
+					item: {
+						count: 1
+						id: "createpropulsion:wing"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "282E199C98DB595B"
+			rewards: [
+				{
+					id: "2F985ABC4C07B6A3"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "696763F21111CDC2"
+					item: {
+						count: 1
+						id: "aeroworks:control_desk"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "232C1A4D540EB516"
+			rewards: [
+				{
+					id: "551AC7A871CE1A60"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "277CB92B0CBCE9BC"
+					type: "checkmark"
+				}
+			]
+			x: 10.0d
+			y: 6.0d
+		}
+	]
+}

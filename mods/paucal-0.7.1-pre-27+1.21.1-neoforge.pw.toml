@@ -1,0 +1,8 @@
+name = "PAUCAL"
+filename = "paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/4be89c91385ffaec/paucal-0.7.1-pre-27%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "14b4c4390c7145aa5882c8769ccbc1c80a75c318860925caceaec3cbc1edd27b80447192ce83a80bf2311402476d50c56a995e77629379ed0914a08bd3e42a9f"

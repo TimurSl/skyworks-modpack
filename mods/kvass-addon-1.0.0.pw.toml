@@ -1,0 +1,8 @@
+name = "Kvass delight"
+filename = "kvass-addon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B0qEefgW/versions/dxA1IG3v/kvass-addon-1.0.0.jar"
+hash-format = "sha512"
+hash = "84f0b30d68b86532c6d817a8fdade28b252ce928d05d4a2f182791201bf19f8b74c44693f758457bacb89cadec78cfb45772279b6b7c855aee14bb85328a74cf"

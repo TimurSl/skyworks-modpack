@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "advanced"
+	group: ""
+	icon: {
+		id: "create:mechanical_crafter"
+	}
+	id: "662854369199D65B"
+	order_index: 18
+	quest_links: [ ]
+	quests: [
+		{
+			id: "10DA5E02C270D901"
+			rewards: [
+				{
+					id: "286C8DFC4B855F0C"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 9L
+					id: "77FF846C4B9DDD5E"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10DA5E02C270D901"]
+			id: "047CF9509B29D623"
+			rewards: [
+				{
+					id: "439D3FFD0C7451EC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "1F849B3542049AB9"
+					item: {
+						count: 1
+						id: "create:item_vault"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10DA5E02C270D901"]
+			id: "01D3FE298EE3B843"
+			rewards: [
+				{
+					id: "02C0124003975B3B"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6D9C228AD1336404"
+					item: {
+						count: 1
+						id: "createsifter:advanced_brass_mesh"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["047CF9509B29D623"]
+			id: "149CBDCB055B4350"
+			rewards: [
+				{
+					id: "4FE5E58A31063A3C"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "532C5186865157CB"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01D3FE298EE3B843"]
+			id: "24A3A06E232FB8AB"
+			rewards: [
+				{
+					id: "7589AD60C0A2F0D3"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "2D834FC6A40CFD4A"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["149CBDCB055B4350", "24A3A06E232FB8AB"]
+			id: "00FC0828845E5A84"
+			rewards: [
+				{
+					id: "09EFE45156116CAE"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "gear"
+			optional: true
+			tasks: [
+				{
+					id: "488B1B2F362564A0"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 1.0d
+		}
+	]
+}

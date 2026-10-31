@@ -1,0 +1,8 @@
+name = "WhitelistGate"
+filename = "whitelistgate-1.0.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UeULOcQI/versions/7ReFsKw6/whitelistgate-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "50900b182f92344a3159e7cfc0418bb9f1068b6e2aff3d4d668dc7a0fab5044a98248bfe302df88c9887c058c358d2472778aa934b162e1e4d7c0ca838752722"

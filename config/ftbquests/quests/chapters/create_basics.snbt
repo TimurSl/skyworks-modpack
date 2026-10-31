@@ -1,0 +1,226 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_basics"
+	group: ""
+	icon: {
+		id: "create:cogwheel"
+	}
+	id: "530CF590B4210688"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "338517D331B64692"
+			rewards: [
+				{
+					id: "1CFD6656505A3BBF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "14F8B1CC7191E3C3"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["338517D331B64692"]
+			id: "095BD892863141B0"
+			rewards: [
+				{
+					id: "47EA7ED3EA2CAC23"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "6C0B56C954821602"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "42B3E5F2723D6D85"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["095BD892863141B0"]
+			id: "77C7E2CD8644EE9D"
+			rewards: [
+				{
+					id: "1CC1A1F2CB46E7A9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "28A2751396547F4D"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["095BD892863141B0"]
+			id: "1A871083B1AA5B0A"
+			rewards: [
+				{
+					id: "541DFD3D4B346754"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "7160079D68FEE52A"
+					item: {
+						count: 1
+						id: "create:goggles"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["77C7E2CD8644EE9D"]
+			id: "6368F2E8D3884CDF"
+			rewards: [
+				{
+					id: "79A86CEBD6A9C888"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "38435523C97FA677"
+					item: {
+						count: 1
+						id: "create:millstone"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["095BD892863141B0"]
+			id: "50E893A0FAFD1656"
+			rewards: [
+				{
+					id: "4960A30A1558D6C9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "11E8A40D818F7E15"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["50E893A0FAFD1656"]
+			id: "73D37279BAB42206"
+			rewards: [
+				{
+					id: "6ED7666A399776AC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1DC0B9658195F56C"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5991420B5BA5BCBA"
+					item: {
+						count: 1
+						id: "create:iron_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["73D37279BAB42206", "6368F2E8D3884CDF"]
+			id: "52ED050E4CCE07DD"
+			rewards: [
+				{
+					id: "26BDD23A01126C1E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3E63FD2298C47477"
+					item: {
+						count: 1
+						id: "create:encased_fan"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -1.0d
+		}
+	]
+}

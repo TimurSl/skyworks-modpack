@@ -1,0 +1,8 @@
+name = "OPanel"
+filename = "opanel-neoforge-1.21.1-build-2.2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/57g0cUdx/versions/VbPZFKdO/opanel-neoforge-1.21.1-build-2.2.7.jar"
+hash-format = "sha512"
+hash = "46d8ade3b324cf25bf1a5b1e1dc0c6c83a14fef0efa75a834274e4c1009a646659377568eccf688c3de8adfd9db1f9325809916a809373c41a7cd5652e84cdb6"

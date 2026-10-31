@@ -1,0 +1,8 @@
+name = "HexQuantum"
+filename = "hexquantum-neoforge-1.21.1-0.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/ba47161736b02a04/hexquantum-neoforge-1.21.1-0.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4a5dad30a1d6421a5d89ba985c7ec47e59f319300610e254ab2cc08d3609ab11364d194ee49af0c90a345f8fdae4f2ee4f29a2ec165fe5e9d05bd830c6faca9a"

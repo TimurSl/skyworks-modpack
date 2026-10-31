@@ -1,0 +1,8 @@
+name = "options-standard.txt"
+filename = "options-standard.txt"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/dedcf03965bd1ba3/options-standard.txt"
+hash-format = "sha256"
+hash = "dedcf03965bd1ba353b1a67704713de23910e2be4be23a811f10bdbc161d12a5"

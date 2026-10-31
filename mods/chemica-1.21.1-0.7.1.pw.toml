@@ -1,0 +1,8 @@
+name = "Chemica"
+filename = "chemica-1.21.1-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6GusVzz/versions/47KDFPTd/chemica-1.21.1-0.7.1.jar"
+hash-format = "sha512"
+hash = "ace5c2246aa1ed3650e60fc9ec6dee407eecb244c47e258d5e089c3079c241cb1f3c0fa9834f0f6a70379f700d2e8efeba044090ff1af07389acdf48e75d42c8"

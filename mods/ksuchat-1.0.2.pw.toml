@@ -1,0 +1,8 @@
+name = "KsuChat (TG Bridge)"
+filename = "ksuchat-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwzJn0I7/versions/jfSRt69u/ksuchat-1.0.2.jar"
+hash-format = "sha512"
+hash = "72558a062bd6d4cb003bc08eb9a2b7f72a99998f67ba7163df0eee562cbdb18a7408132e810e4b265ce6f62658751e62c442b14bb5e65160325a7df2cfaba265"

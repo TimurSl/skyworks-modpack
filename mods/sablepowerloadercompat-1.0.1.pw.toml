@@ -1,0 +1,8 @@
+name = "Sable Power Loader Compat"
+filename = "sablepowerloadercompat-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OkHvb6D/versions/sqXcd1eI/sablepowerloadercompat-1.0.1.jar"
+hash-format = "sha512"
+hash = "be9c4afd61d6285f49b4b4d5ac0cf78921452bfffb9afc98f3f8ce3d2ee996f6a108da45f9059436e8a36ab26dfe1d1e9d05221fe3e5e230d9708c1ceca092c9"

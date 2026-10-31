@@ -1,0 +1,8 @@
+name = "Skyworks Core"
+filename = "skyworks-core-0.1.2-dev.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/ef1558164c124da5/skyworks-core-0.1.2-dev.jar"
+hash-format = "sha512"
+hash = "1623dfb6618fb36f20e9d196a5f39969262291740d9fa32f742737262e2b80c5c43b395b1ee23749ddc1bb7821bd11dfeef2c262d2eba20fa16c28eaaa551e8b"

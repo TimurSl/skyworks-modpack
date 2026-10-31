@@ -1,0 +1,259 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration"
+	group: ""
+	icon: {
+		id: "minecraft:compass"
+	}
+	id: "0D5FEB1964282266"
+	order_index: 16
+	quest_links: [ ]
+	quests: [
+		{
+			id: "68FC8473B7AB0032"
+			rewards: [
+				{
+					id: "62FD8D3786F4A23C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4C5187A145706EBD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68FC8473B7AB0032"]
+			id: "388BE251EA1E4DBB"
+			rewards: [
+				{
+					id: "44620E76E7336DF5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "6F507E1665520A2C"
+					type: "dimension"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["68FC8473B7AB0032"]
+			id: "50A6E78E56C5FD44"
+			rewards: [
+				{
+					id: "4483D597815E69C7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5D5E2A1E9E8432F9"
+					item: {
+						count: 1
+						id: "minecraft:ancient_debris"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["388BE251EA1E4DBB", "50A6E78E56C5FD44"]
+			id: "7950C2292976672B"
+			rewards: [
+				{
+					id: "49FAB47F6459F498"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "423295D68B909170"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7950C2292976672B"]
+			id: "31F8EB8D56C290B8"
+			rewards: [
+				{
+					id: "4E2BE211BC64F20B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 12L
+					id: "49905C12846EA25B"
+					item: {
+						count: 1
+						id: "minecraft:ender_eye"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31F8EB8D56C290B8"]
+			id: "5CBECE38555D3F7B"
+			rewards: [
+				{
+					id: "573852D2859007B1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "53C90062651E7179"
+					type: "dimension"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "7886C03B8FC2B253"
+			rewards: [
+				{
+					id: "6FC386FE10E822BF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "298BC8B12C59600A"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "6C3E8975993C5B03"
+			rewards: [
+				{
+					id: "061D954485FB71B4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6C12395B58F7265B"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "5EDB1069661A78FC"
+			rewards: [
+				{
+					id: "01A67912269005DF"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1C4A05EE54F99818"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "284530AC7B4B9F11"
+			rewards: [
+				{
+					id: "33ED111F67F53444"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "12A62A1D739AEBE6"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "0F39EE6AE7A9ACCD"
+			rewards: [
+				{
+					id: "14C68243F2D61419"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1860832D09EC441C"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "308A023FE20493AC"
+			rewards: [
+				{
+					id: "6CF5ECF7B75854AE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					dimension: "minecraft:the_end"
+					id: "420DFA7F7C1D9A66"
+					type: "dimension"
+				}
+			]
+			x: 4.0d
+			y: 5.0d
+		}
+	]
+}

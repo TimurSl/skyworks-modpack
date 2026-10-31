@@ -1,0 +1,339 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hex"
+	group: ""
+	icon: {
+		id: "hexcasting:staff/oak"
+	}
+	id: "7994EBAE30A63934"
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			id: "368EDCCD2219A99C"
+			rewards: [
+				{
+					id: "6A15A9BAF5558B5F"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "78EB91D0AF367789"
+					item: {
+						count: 1
+						id: "minecraft:amethyst_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["368EDCCD2219A99C"]
+			id: "5B3A1A7003D1A183"
+			rewards: [
+				{
+					id: "0AEA970CC19BD30B"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3B44DF1C472259D5"
+					item: {
+						count: 1
+						id: "hexcasting:staff/oak"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["368EDCCD2219A99C"]
+			id: "05D99B7731036E77"
+			rewards: [
+				{
+					id: "2063B54BA11BF20C"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 16L
+					id: "33F8F8B12E4DA01A"
+					item: {
+						count: 1
+						id: "hexcasting:amethyst_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["05D99B7731036E77"]
+			id: "4CE5564B2B046AD7"
+			rewards: [
+				{
+					id: "2C05EFABFF52C666"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "4E7F340688AF73CA"
+					item: {
+						count: 1
+						id: "hexcasting:charged_amethyst"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5B3A1A7003D1A183"]
+			id: "2578CF523A5596C7"
+			rewards: [
+				{
+					id: "6CDBECD0555BA8DE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3A8DF090A98DD4B2"
+					item: {
+						count: 1
+						id: "hexcasting:focus"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2578CF523A5596C7", "4CE5564B2B046AD7"]
+			id: "67592D8143B4377A"
+			rewards: [
+				{
+					id: "6453004617B2F974"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0E9AE9FAEB13CD13"
+					item: {
+						count: 1
+						id: "hexcasting:cypher"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2578CF523A5596C7"]
+			id: "63E1AD87667D5023"
+			rewards: [
+				{
+					id: "53C1E3BD3D38E522"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "375B88BB7525FBD8"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["67592D8143B4377A"]
+			id: "2F51C5D0B1C66EDB"
+			rewards: [
+				{
+					id: "0AB3E4BEC4C6DAD1"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6882C8584BB2BFA4"
+					type: "checkmark"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "319815C3409B4348"
+			rewards: [
+				{
+					id: "0DFB559512C5BC2E"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5226FA0D64411AA1"
+					item: {
+						count: 1
+						id: "hexcasting:lens"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["319815C3409B4348"]
+			id: "4B22BAC3229EDF09"
+			rewards: [
+				{
+					id: "08B521648F243A33"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "477E52F435330547"
+					item: {
+						count: 1
+						id: "hexcasting:scroll_small"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4B22BAC3229EDF09"]
+			id: "4DE87E33A28D168A"
+			rewards: [
+				{
+					id: "550E7B2EA6E017B2"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "05879B54781C7063"
+					item: {
+						count: 1
+						id: "hexcasting:thought_knot"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4DE87E33A28D168A"]
+			id: "2B537C304A531294"
+			rewards: [
+				{
+					id: "1335B681DC937A5E"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "47C2F77EB3169AED"
+					item: {
+						count: 1
+						id: "hexcasting:edified_log"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2B537C304A531294"]
+			id: "32F32E9194FF47D9"
+			rewards: [
+				{
+					id: "26AF47BE7174B2B2"
+					type: "xp"
+					xp: 300
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "341EF28C15F946A7"
+					item: {
+						count: 1
+						id: "hexcasting:artifact"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "76FC3FAB88E63449"
+			rewards: [
+				{
+					id: "6CA1425407B0C6C9"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5D1CE573EA5CE864"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

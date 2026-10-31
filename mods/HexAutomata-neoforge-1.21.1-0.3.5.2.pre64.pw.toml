@@ -1,0 +1,8 @@
+name = "HexAutomata"
+filename = "HexAutomata-neoforge-1.21.1-0.3.5.2.pre64.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7IlfT3Vo/versions/HJDE492I/HexAutomata-neoforge-1.21.1-0.3.5.2.pre64.jar"
+hash-format = "sha512"
+hash = "9d6b268a81418e0cf2370485d3b68b7fbf4a5ab1b13e1ce0cd43c2bb7942b9a643359263c2505a255fb5657c880d71b5e0efb43c1297c769b396e1e4e3443804"

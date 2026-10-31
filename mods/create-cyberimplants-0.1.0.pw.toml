@@ -1,0 +1,8 @@
+name = "Create: Cybernetics"
+filename = "create-cyberimplants-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/b9ac6857f8a8d5dc/create-cyberimplants-0.1.0.jar"
+hash-format = "sha512"
+hash = "884d85c6b400e24ef3e5b621ab456535bf1d8f5fe45e5b7dc67a811e7e391a65824c7c147af79253bb18eefa04a4e31cf78e386e0cfb1ee31e50424b86b2c7f0"

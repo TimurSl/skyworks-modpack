@@ -1,0 +1,1069 @@
+{
+	chapter.022131FC544A9543.chapter_subtitle: [
+		"The Factory Must Grow + Chemica: acids, fuels, plastics and explosives."
+	]
+	chapter.022131FC544A9543.title: "Chemistry"
+	chapter.0D5FEB1964282266.chapter_subtitle: [
+		"Few, far and dangerous: only the essential structures exist."
+	]
+	chapter.0D5FEB1964282266.title: "Exploration"
+	chapter.0F04D28CD522179C.chapter_subtitle: [
+		"Quality-of-life features worth knowing. Click to collect XP."
+	]
+	chapter.0F04D28CD522179C.title: "Tips \\& Tools"
+	chapter.1984337FCA8F77EB.chapter_subtitle: ["Heat, brass and precision."]
+	chapter.1984337FCA8F77EB.title: "Industrial Production"
+	chapter.2218ACE80C232364.chapter_subtitle: [
+		"Turn experience into a fluid and enchant on an assembly line."
+	]
+	chapter.2218ACE80C232364.title: "Enchanting \\& Experience"
+	chapter.3573F24E55D6B754.chapter_subtitle: [
+		"From water wheels to diesel engines and electricity."
+	]
+	chapter.3573F24E55D6B754.title: "Power \\& Engines"
+	chapter.39CCB32D95EDFDBC.chapter_subtitle: ["Eat well, automate the kitchen."]
+	chapter.39CCB32D95EDFDBC.title: "Food \\& Farming"
+	chapter.3CA8F5487B175644.chapter_subtitle: [
+		"Beyond the first balloon: smarter ships and ground vehicles."
+	]
+	chapter.3CA8F5487B175644.title: "Vehicles \\& Flight"
+	chapter.3D343A4500907F62.chapter_subtitle: [
+		"Moving items: belts, funnels, arms, contraptions and trains."
+	]
+	chapter.3D343A4500907F62.title: "Logistics \\& Automation"
+	chapter.484C50D5A767A23B.chapter_subtitle: ["Decorate your islands and ships."]
+	chapter.484C50D5A767A23B.title: "Music, Art \\& Fun"
+	chapter.4D7374CABA86D47E.chapter_subtitle: [
+		"Welcome to Skyworks - Industrial Arcana."
+	]
+	chapter.4D7374CABA86D47E.title: "Getting Started"
+	chapter.530CF590B4210688.chapter_subtitle: [
+		"Rotational power: shafts, cogs, water wheels and your first machines."
+	]
+	chapter.530CF590B4210688.title: "Create Basics"
+	chapter.549A1F4BC406BB91.chapter_subtitle: [
+		"Create: Cybernetics - build implants on Create lines, install them on a kinetic rig, grade them up to Mk. V."
+	]
+	chapter.549A1F4BC406BB91.title: "Cybernetics"
+	chapter.5B6DC45A962FF50B.chapter_subtitle: [
+		"Create Aeronautics: build anything that flies."
+	]
+	chapter.5B6DC45A962FF50B.title: "Airship Construction"
+	chapter.655FD9D9E7DB0EC5.chapter_subtitle: [
+		"Bulk processing with fans and the Dreams \\& Desires machines."
+	]
+	chapter.655FD9D9E7DB0EC5.title: "Fan Processing \\& Desires"
+	chapter.662854369199D65B.chapter_subtitle: ["Big factories, big ships, big guns."]
+	chapter.662854369199D65B.title: "Advanced Engineering"
+	chapter.703BA404AFB6FCB2.chapter_subtitle: [
+		"Food, wood, stone and water - the first nights in the sky."
+	]
+	chapter.703BA404AFB6FCB2.title: "Skyblock Survival"
+	chapter.749661DF67B670C0.chapter_subtitle: ["Turn cobblestone into everything."]
+	chapter.749661DF67B670C0.title: "Resource Automation"
+	chapter.7994EBAE30A63934.chapter_subtitle: [
+		"Programmable magic: draw patterns, build spells, automate with foci."
+	]
+	chapter.7994EBAE30A63934.title: "Hex Casting"
+	chapter.7E12579408EECDD7.chapter_subtitle: [
+		"Create Big Cannons and Create: Gunsmithing: casting, boring, loading and firing."
+	]
+	chapter.7E12579408EECDD7.title: "Artillery \\& Weapons"
+	quest.00625A41041CA95C.quest_desc: [
+		"The physics assembler turns a glued structure into a real physics object (a Sable sub-level)."
+		"Glue the build with super glue or honey glue first. Ponder (W) explains every step."
+	]
+	quest.00625A41041CA95C.title: "Physics assembler"
+	quest.00FC0828845E5A84.quest_desc: [
+		"Deep void seas, thousands of blocks wide, separate the island continents. Only a long-range airship crosses them."
+	]
+	quest.00FC0828845E5A84.title: "The far frontier"
+	quest.01D3FE298EE3B843.quest_desc: [
+		"About one diamond per 10,000 sifted gravel: worth it only with a fully automated sifting line."
+	]
+	quest.01D3FE298EE3B843.title: "Diamonds from gravel"
+	quest.0207448289456B89.quest_desc: [
+		"Cannon builders assemble huge built-up barrels. Steel and nethersteel handle more powder."
+	]
+	quest.0207448289456B89.title: "Built-up cannons"
+	quest.0216FB8B6A4A0E9B.quest_desc: [
+		"A rotation-powered block generator: water + lava beside it gives cobblestone; other pairs and a catalyst"
+		"block underneath give basalt, andesite, deepslate, end stone, even Create's ore-rich stones. JEI shows every combination."
+	]
+	quest.0216FB8B6A4A0E9B.title: "Mechanical extruder"
+	quest.02873DF550E49C6A.quest_desc: [
+		"Place a Neural Port on a Create machine, rename it in an anvil and bind it: your deck reads its speed and stress."
+		"An Andesite Casing, a copper sheet, redstone and an Electron Tube."
+	]
+	quest.02873DF550E49C6A.title: "Neural Port"
+	quest.03C6819876A29603.quest_desc: [
+		"Spout a Glass Bottle with 250 mB of Neural Gel. It suppresses neural glitches for 10 minutes"
+		"(you feel sick for the first 5 seconds). Keep a spare for big fights when your Load runs above Capacity."
+	]
+	quest.03C6819876A29603.title: "Neuro-Stabilizer"
+	quest.043ADD6730F552D2.quest_desc: [
+		"Stand on a powered Kinetic Charger to refill Charge fast: |RPM| / 8 per second (it needs at least 16 RPM)."
+		"An Andesite Casing, a copper sheet, a redstone block and a shaft."
+	]
+	quest.043ADD6730F552D2.title: "Kinetic Charger"
+	quest.047CF9509B29D623.quest_desc: [
+		"Item vaults store huge amounts and pair with stock tickers."
+	]
+	quest.047CF9509B29D623.title: "Bulk storage"
+	quest.047FD320CC94C71D.quest_desc: [
+		"A surgical stool: an Andesite Casing, an iron sheet, a Precision Mechanism, a shaft and a cogwheel (crafting table)."
+		"Give it rotation through the gearbox at its back and fill its tank (1000 mB) with gel."
+		"Right-click it, pick an implant and click a glowing node. Stay in the chair until it finishes."
+		"It needs 16 / 32 / 64 / 128 / 256 RPM for Mk. I to V."
+	]
+	quest.047FD320CC94C71D.title: "The Implantation Rig"
+	quest.048A3F85B99426D5.quest_desc: [
+		"Cocktails Delight: 40+ cocktails mixed from spirits, juices and syrups."
+	]
+	quest.048A3F85B99426D5.title: "Bartender"
+	quest.04CBC978BAA4EDF0.quest_desc: [
+		"Save a build with a schematic and quill, then let the schematicannon print it - perfect for copying ships."
+	]
+	quest.04CBC978BAA4EDF0.title: "Schematics"
+	quest.04F017B8544278BD.quest_desc: [
+		"F3 shows coordinates, biome, light and TPS in readable groups (BetterF3) - handy for navigation."
+	]
+	quest.04F017B8544278BD.title: "Better F3"
+	quest.053A6D8A53C8EB6F.quest_desc: [
+		"Shows altitude, speed and lift information while flying."
+	]
+	quest.053A6D8A53C8EB6F.title: "Aviator's goggles"
+	quest.058EEC1B4A5712A0.quest_desc: [
+		"Copper sheets frame the neural and optical implants, iron sheets the mechanical ones."
+		"Press ingots with a Mechanical Press (on a depot or belt)."
+		"Copper: the 2 ore on your start island, copper ore on nearby islands, or sifting gravel for nuggets."
+	]
+	quest.058EEC1B4A5712A0.title: "Copper and iron sheets"
+	quest.05D99B7731036E77.quest_desc: [
+		"&eSkyworks:&r crushing wheels grind amethyst shards into amethyst dust - a steady media supply from industry."
+	]
+	quest.05D99B7731036E77.title: "Media"
+	quest.06E97EB22173E7E2.quest_desc: [
+		"Epoxy resin cures into tough sheets for advanced parts and circuit boards."
+	]
+	quest.06E97EB22173E7E2.title: "Epoxy"
+	quest.0873A2AF842F84BC.quest_desc: [
+		"Animals spawn on grassy islands, not on your start island. Lead two of a kind home (or carry eggs/wheat)."
+	]
+	quest.0873A2AF842F84BC.title: "Livestock"
+	quest.08A9064A0671DA27.quest_desc: [
+		"Bauxite (islands or zinc-mesh sifting) → aluminium: light pipes and parts."
+	]
+	quest.08A9064A0671DA27.title: "Aluminium"
+	quest.095BD892863141B0.quest_desc: [
+		"Shafts carry rotation, cogwheels change direction and speed. Wear Engineer's Goggles to read speed and stress."
+	]
+	quest.095BD892863141B0.title: "Shafts and cogs"
+	quest.09FAF6DAD988803E.quest_desc: [
+		"Faster attacks, bow draw, eating and drinking. Copper sheet frame, a redstone dust, an Electron Tube and a feather."
+	]
+	quest.09FAF6DAD988803E.title: "Reflex Booster"
+	quest.0AC1F932FE649DE5.quest_desc: [
+		"Create Propulsion: fuel-burning thrusters push airships without propellers; vector thrusters steer."
+	]
+	quest.0AC1F932FE649DE5.title: "Thrusters"
+	quest.0B8BFB2B842ECA42.quest_desc: [
+		"Chutes move items vertically; funnels insert/extract. Add a filter to sort."
+	]
+	quest.0B8BFB2B842ECA42.title: "Funnels \\& chutes"
+	quest.0B98054EBE7A95CA.quest_desc: [
+		"Swing between islands - the hook also latches onto contraptions and moving airships."
+		"Upgrade it at a grapple modifier block."
+	]
+	quest.0B98054EBE7A95CA.title: "Grappling hook"
+	quest.0C31FEEDB9F4C0F8.quest_desc: [
+		"Rice grows in water - a useful crop for small sky ponds. Sift dirt with a string mesh for wild seeds."
+	]
+	quest.0C31FEEDB9F4C0F8.title: "Rice"
+	quest.0F39EE6AE7A9ACCD.quest_desc: [
+		"Naturalist adds deer, bears, birds, snakes and more to the islands' biomes. Some are dangerous."
+	]
+	quest.0F39EE6AE7A9ACCD.title: "Wildlife"
+	quest.10DA5E02C270D901.quest_desc: [
+		"Mechanical crafters build the largest Create recipes automatically."
+	]
+	quest.10DA5E02C270D901.title: "Mechanical crafting"
+	quest.11BFB4F22BD634E3.quest_desc: [
+		"The frame of every implant, the Rig and the Charger."
+		"Stripped log + andesite alloy, applied with a deployer or by hand."
+	]
+	quest.11BFB4F22BD634E3.title: "Andesite casing"
+	quest.1240C391276915FF.quest_desc: [
+		"Propeller bearings with sails or propellers push your craft. Power them with an engine aboard."
+	]
+	quest.1240C391276915FF.title: "Propulsion"
+	quest.125EB5DB35168DE7.quest_desc: [
+		"Interiors adds chairs, floor chairs and cushions that also work as seats on contraptions."
+	]
+	quest.125EB5DB35168DE7.title: "Furniture"
+	quest.12D9F75E3D5FCD93.quest_desc: [
+		"Press gold ingots. Each Mk. III loop deploys a golden sheet and a Precision Mechanism."
+	]
+	quest.12D9F75E3D5FCD93.title: "Golden sheets"
+	quest.1368B515D7B2C490.quest_desc: [
+		"Mix nitrate, sulfur and charcoal: real black powder, the base of every cannon charge."
+	]
+	quest.1368B515D7B2C490.title: "Industrial gunpowder"
+	quest.136A169C6FD1844F.quest_desc: [
+		"&eImpact Dampeners&r soak up fall damage - welcome when you misjudge a jump between islands."
+		"Every Tier I implant is a Mechanical Crafter recipe: a frame of sheets and casings, a category part and a signature item"
+		"(here a slime block, a bone block and a cogwheel). JEI shows all of them. &cThe void is still fatal.&r"
+	]
+	quest.136A169C6FD1844F.title: "Survive the drop"
+	quest.13BAF85D2022768D.quest_desc: [
+		"Central Kitchen lets Create machines run cooking pots and feasts. Check JEI for automated recipes."
+	]
+	quest.13BAF85D2022768D.title: "Central Kitchen"
+	quest.13F29962F97FC8A8.quest_desc: [
+		"Fire controllers aim Create Big Cannons at radar targets automatically - airship air defence."
+	]
+	quest.13F29962F97FC8A8.title: "Fire control"
+	quest.149CBDCB055B4350.quest_desc: [
+		"A ship that carries its own drills, crushers or furnaces. Test which machines keep working while flying."
+	]
+	quest.149CBDCB055B4350.title: "Industrial airship"
+	quest.16412B600BED18C0.quest_desc: [
+		"Crafting Tweaks adds rotate / balance / clear buttons next to the grid."
+	]
+	quest.16412B600BED18C0.title: "Crafting grid tricks"
+	quest.1780EA83C7CA151F.quest_desc: [
+		"Blaze enchanters apply chosen enchantments using liquid experience."
+	]
+	quest.1780EA83C7CA151F.title: "Blaze enchanter"
+	quest.179897714058F33B.quest_desc: [
+		"Cartridges are pressed from sheets and filled with powder and a round."
+	]
+	quest.179897714058F33B.title: "Cartridges"
+	quest.19D255D18F29A064.quest_desc: [
+		"Coke ovens turn coal into coal coke; a blast furnace makes steel. Steel unlocks TFMG chemistry and heavy machinery."
+	]
+	quest.19D255D18F29A064.title: "Steel (TFMG)"
+	quest.1A871083B1AA5B0A.quest_desc: [
+		"See stress, speed and capacity at a glance."
+	]
+	quest.1A871083B1AA5B0A.title: "Engineer's goggles"
+	quest.1AF5C624C98B95D0.quest_desc: [
+		"Create Winery: press grapes, ferment the must in a wine cellar and bottle merlot, riesling, champagne..."
+	]
+	quest.1AF5C624C98B95D0.title: "Winery"
+	quest.1B9D4C0C9F418483.quest_desc: [
+		"Mark a target for your guns by looking at it."
+	]
+	quest.1B9D4C0C9F418483.title: "Binoculars"
+	quest.1C4351D1C551CA00.quest_desc: [
+		"Brass meshes sift crushed ores and lapis from gravel. Sifting is a slow lottery: every result is a 1/800 roll"
+		"(copper and iron 1/1000, diamonds 1/10000) - it pays off only at industrial scale."
+	]
+	quest.1C4351D1C551CA00.title: "Brass and advanced meshes"
+	quest.1C997BA606DB131E.quest_desc: [
+		"Jade shows block, machine and mob info at the top of the screen - including on airships."
+	]
+	quest.1C997BA606DB131E.title: "What am I looking at?"
+	quest.1D55CAB33947BB91.quest_desc: [
+		"Mix rotten flesh (or guano) with water: a renewable niter source for your powder lines."
+	]
+	quest.1D55CAB33947BB91.title: "Niter"
+	quest.1DC39079DB0B6EAC.quest_desc: [
+		"Plastic sheets, pipes and Chemica polymers (PVC, epoxy) - lightweight parts for aircraft and factories."
+	]
+	quest.1DC39079DB0B6EAC.title: "Plastics"
+	quest.1E6EF85A0D6A743D.quest_desc: [
+		"Docking connectors join a ship to a station or to another ship."
+	]
+	quest.1E6EF85A0D6A743D.title: "Docking"
+	quest.1FE66342C645AA64.quest_desc: [
+		"Copies written books, enchanted books (with experience) and more."
+	]
+	quest.1FE66342C645AA64.title: "Printer"
+	quest.204FCFDF8959D187.quest_desc: [
+		"Envelopes trap hot air from a burner and give lift. A small balloon is a cheap first ride between islands."
+		"&eTip:&r test new craft above a big island, not over the open void."
+	]
+	quest.204FCFDF8959D187.title: "Hot air balloon"
+	quest.207A6631CA77A8EC.quest_desc: [
+		"Farmer's Delight: cut ingredients and harvest more from crops."
+	]
+	quest.207A6631CA77A8EC.title: "Cutting board"
+	quest.20864C47ADDE6FA2.quest_desc: [
+		"Wireless redstone: same two frequency items = same channel. Great on airships."
+	]
+	quest.20864C47ADDE6FA2.title: "Redstone links"
+	quest.21007690B1802585.quest_desc: [
+		"Create Deco, Copycats+ and Bells \\& Whistles add catwalks, sheet metal, lamps and copycat blocks."
+		"Copycat blocks are also light - good for airships."
+	]
+	quest.21007690B1802585.title: "Industrial style"
+	quest.21010365EB437DA9.quest_desc: [
+		"Load from the breech end: projectile first, then powder charges. Powder charges are made from industrial gunpowder."
+	]
+	quest.21010365EB437DA9.title: "Shot and powder"
+	quest.2270F3906EA75CD8.quest_desc: [
+		"Sprinklers water and fertilise farms below them."
+	]
+	quest.2270F3906EA75CD8.title: "Sprinklers"
+	quest.232C1A4D540EB516.quest_desc: [
+		"Vertical ropes hanging from an airship are climbable: right-click with an empty hand to grab on."
+	]
+	quest.232C1A4D540EB516.title: "Rope ladders"
+	quest.24A3A06E232FB8AB.quest_desc: [
+		"Ring your home island with cannon batteries fed by an ammunition factory."
+	]
+	quest.24A3A06E232FB8AB.title: "Defended base"
+	quest.2578CF523A5596C7.quest_desc: [
+		"Foci hold one iota; spellbooks hold many. Save your best patterns instead of redrawing them."
+	]
+	quest.2578CF523A5596C7.title: "Storing iotas"
+	quest.2606AE0F402C0C0D.quest_desc: ["Heated mixing of copper and zinc."]
+	quest.2606AE0F402C0C0D.title: "Brass"
+	quest.261DCE85CA3EC23A.quest_desc: [
+		"HE shells need a fuze. Guncotton and nitropowder (from your chemistry line) give stronger charges."
+	]
+	quest.261DCE85CA3EC23A.title: "High explosives"
+	quest.26819DDA8D6AC98A.quest_desc: [
+		"Etched PVC/epoxy boards become electronic circuits for advanced machines."
+	]
+	quest.26819DDA8D6AC98A.title: "Circuit boards"
+	quest.272B0C722280A1D7.quest_desc: [
+		"Your first sequenced assembly. Precision mechanisms gate brass-tier machines, airship controls and more."
+	]
+	quest.272B0C722280A1D7.title: "Precision mechanism"
+	quest.27B30E8200C23C8D.quest_desc: [
+		"Zinc comes from zinc ore on islands, or from sifting gravel. Copper + zinc make brass - once you have heat."
+	]
+	quest.27B30E8200C23C8D.title: "Zinc"
+	quest.280386B01AECC978.quest_desc: [
+		"Chemica chemicals are handled in vials and tanks; JEI lists every reaction and the vat setup it needs."
+	]
+	quest.280386B01AECC978.title: "Chemica glassware"
+	quest.282E199C98DB595B.quest_desc: [
+		"Aeroworks control desks hold joysticks, throttles, levers and buttons that drive redstone links."
+	]
+	quest.282E199C98DB595B.title: "Cockpit controls"
+	quest.284530AC7B4B9F11.quest_desc: [
+		"Structure chests are Lootr chests: every player gets their own loot - including the starter chest."
+	]
+	quest.284530AC7B4B9F11.title: "Loot for everyone"
+	quest.287CBEDA12BE6991.quest_desc: [
+		"Helps you keep a heading over the featureless void."
+	]
+	quest.287CBEDA12BE6991.title: "Navigation table"
+	quest.29AD25AD6BB03312.quest_desc: [
+		"Let lava flow next to water (not onto still water!) to make an endless cobblestone generator."
+		"Keep the lava bucket safe - lava is precious until you have a dripstone farm."
+	]
+	quest.29AD25AD6BB03312.title: "Cobblestone generator"
+	quest.2A3FFB822D4CC670.quest_desc: [
+		"Just Zoom adds a zoom key (default &eC&r) - great for scouting distant islands. A spyglass works too."
+	]
+	quest.2A3FFB822D4CC670.title: "Zoom"
+	quest.2B20660D8E8F4C21.quest_desc: [
+		"Make obsidian by pouring water onto still lava. You need 10 blocks (or 14 with corners)."
+		"The Nether is a lava-lit void with tiny, rare islets. Blaze rods come from the fortress, ancient debris only from Nether meteors."
+		"Brass, the blaze burner and nether wart all need a trip - the Nether is part of normal progression."
+	]
+	quest.2B20660D8E8F4C21.title: "A portal of your own"
+	quest.2B5364EB62261241.quest_desc: [
+		"Kvass Delight: ferment bread in the keg. Berry, beet, ginger and monastery kvass too."
+	]
+	quest.2B5364EB62261241.title: "Kvass"
+	quest.2B537C304A531294.quest_desc: [
+		"Grow edified trees with a spell; their wood builds akashic libraries."
+	]
+	quest.2B537C304A531294.title: "Edified trees"
+	quest.2B5987C75259F4F7.quest_desc: [
+		"Etch your own music onto blank discs from a link; everyone nearby hears it."
+	]
+	quest.2B5987C75259F4F7.title: "Etched records"
+	quest.2B70BAF8E8E73151.quest_desc: [
+		"Crushing ores and many processes drop experience nuggets. Collect them!"
+	]
+	quest.2B70BAF8E8E73151.title: "Experience nuggets"
+	quest.2BCE767F9AB9192C.quest_desc: ["Gyroscopic bearings keep a ship level."]
+	quest.2BCE767F9AB9192C.title: "Stabilisers"
+	quest.2BD84482972DFE5E.quest_desc: [
+		"Brewin' and Chewin': a keg ferments drinks over time and ages cheeses. Keep it warm or cool as the recipe asks (JEI)."
+		"Strong drinks make you Tipsy - don't fly an airship drunk."
+	]
+	quest.2BD84482972DFE5E.title: "The keg"
+	quest.2BF25DB32E16C19D.quest_desc: [
+		"Better Third Person: hold the free-look key to orbit your character (and your airship)."
+		"First-person Model shows your body; Paper Doll shows a mini preview - both configurable in Mods → Config."
+	]
+	quest.2BF25DB32E16C19D.title: "Camera tricks"
+	quest.2C5F05C27BDCC359.quest_desc: [
+		"TFMG has its own voltage-based electric network: generators, cables, motors and lamps."
+	]
+	quest.2C5F05C27BDCC359.title: "TFMG electricity"
+	quest.2E4FC12FBDE25B1C.quest_desc: [
+		"A windmill bearing with sails spins without water - ideal for small islands."
+	]
+	quest.2E4FC12FBDE25B1C.title: "Wind power"
+	quest.2F51C5D0B1C66EDB.quest_desc: [
+		"Reactive foci run a hex when something happens to you: being hurt, shooting, teleporting..."
+		"They need a villager mind - there are no villages, so cure a zombie villager."
+	]
+	quest.2F51C5D0B1C66EDB.title: "Reactive foci (HexAutomata)"
+	quest.2FFED2542AD40AFC.quest_desc: [
+		"A fan blowing through water washes items on belts or the ground: gravel → iron nuggets, sand → clay."
+	]
+	quest.2FFED2542AD40AFC.title: "Washing"
+	quest.3058E43087BA45F2.quest_desc: [
+		"Mk. IV = category part, a sturdy sheet, a netherite scrap, Neural Gel and a press - three loops."
+		"The Rig needs 128 RPM and Neural Gel. Three fluids and a pile of sheets on one belt: time for a dedicated, automated line."
+	]
+	quest.3058E43087BA45F2.title: "Grade IV: Military"
+	quest.308A023FE20493AC.quest_desc: [
+		"Nullscape reshapes the End into strange floating terrain."
+	]
+	quest.308A023FE20493AC.title: "An alien End"
+	quest.3093170146DFCD69.quest_desc: [
+		"Create's sequenced assembly (JEI shows the steps): a golden sheet, cogwheels and an iron nugget on a belt."
+		"The Rig, the Core and every cyberdeck part use one, and so does every Mk. III upgrade."
+	]
+	quest.3093170146DFCD69.title: "Precision Mechanism"
+	quest.30F541F503D618A2.quest_desc: [
+		"Wings make lift from forward speed: fast planes instead of slow balloons."
+	]
+	quest.30F541F503D618A2.title: "Wings"
+	quest.319815C3409B4348.quest_desc: [
+		"Shows hidden information about blocks and iotas - essential for debugging hexes."
+	]
+	quest.319815C3409B4348.title: "Scrying lens"
+	quest.31C05BB32C6ADD6C.quest_desc: [
+		"Packagers, frogports and stock tickers move items between factories - even between islands."
+	]
+	quest.31C05BB32C6ADD6C.title: "Create logistics"
+	quest.31CBBB1555002780.quest_desc: [
+		"Neural Gel and brass need heat. A Blaze Burner needs a live blaze: the Nether fortress is 1000+ blocks from the Nether origin,"
+		"so plan a balloon or a long bridge. Feed it fuel for heated mixing."
+	]
+	quest.31CBBB1555002780.title: "Heat for the line"
+	quest.31F8EB8D56C290B8.quest_desc: [
+		"Endermen spawn on islands at night. Strongholds generate - partly floating - at least 1280 blocks out;"
+		"eyes of ender still lead the way."
+	]
+	quest.31F8EB8D56C290B8.title: "Eyes of ender"
+	quest.3206CABEBBBD2BB7.quest_desc: [
+		"Heated Mixer: 250 mB Bio-Interface Gel + lapis + glowstone dust + amethyst shard = 250 mB Neural Gel."
+		"The Rig and the upgrades need it instead of Bio-Interface Gel for Mk. IV and Mk. V."
+	]
+	quest.3206CABEBBBD2BB7.title: "Neural Gel"
+	quest.323351DB4428F158.quest_desc: [
+		"Accumulators buffer FE for night-time or bursts."
+	]
+	quest.323351DB4428F158.title: "Storing energy"
+	quest.32F32E9194FF47D9.quest_desc: [
+		"Rechargeable casting items powered by charged amethyst."
+	]
+	quest.32F32E9194FF47D9.title: "Artifacts"
+	quest.338517D331B64692.quest_desc: [
+		"2 andesite + 2 iron (or zinc) nuggets = 1 alloy. Your start island has a little andesite in its core;"
+		"neighbouring islands have plenty."
+	]
+	quest.338517D331B64692.title: "Andesite alloy"
+	quest.366E2764B15D35E1.quest_desc: [
+		"Mk. III = category part, Precision Mechanism, 100 mB Bio-Interface Gel, a golden sheet and a press - two loops."
+		"The Rig needs 64 RPM. Mk. III brings new abilities: the tooltip lists what each grade unlocks."
+		"Higher grades cost more Neural Load: check your Core's Capacity before you upgrade."
+	]
+	quest.366E2764B15D35E1.title: "Grade III: Advanced"
+	quest.368EDCCD2219A99C.quest_desc: [
+		"The sky islands are too small for amethyst geodes: &eSkyworks&r superheated mixing grows amethyst from quartz."
+	]
+	quest.368EDCCD2219A99C.title: "Amethyst"
+	quest.36F73938F0D8A75F.quest_desc: [
+		"Create: Cybernetics adds implants: a Core in your spine, then hardware for the cortex, eyes, skeleton, arms,"
+		"blood, skin and legs, and a programmable cyberdeck."
+		"Every implant is built on Create machines, installed on the &eImplantation Rig&r and upgraded from &eMk. I&r to &eMk. V&r."
+		""
+		"Press &eH&r for the &eField Manual&r (you got one on your first join; a book and a redstone dust craft another)."
+		"This chapter shows where every ingredient comes from in the sky."
+	]
+	quest.36F73938F0D8A75F.title: "Flesh is a weak alloy"
+	quest.37342F63DD4D8842.quest_desc: [
+		"&eEnhanced Tendons&r give you a jump in mid-air (signature: rabbit hide - rabbits live on desert and snowy islands)."
+		"It costs a little Charge; the Core refills it slowly on its own."
+	]
+	quest.37342F63DD4D8842.title: "A second jump"
+	quest.3737F87D389A0418.quest_desc: [
+		"Hold &eW&r over any Create block or item to open its animated &ePonder&r tutorial."
+		"Press &eR&r / &eU&r on an item for recipes and uses (JEI). Hex Casting has its own in-game book."
+		"Quests in this book are a guide, not a gate: every chapter is open from the start."
+	]
+	quest.3737F87D389A0418.title: "Where to look things up"
+	quest.388BE251EA1E4DBB.quest_desc: [
+		"The fortress is the only source of blaze rods and wither skeletons, and its treasure chests are the only"
+		"place to find netherite upgrade templates."
+	]
+	quest.388BE251EA1E4DBB.title: "Nether fortress"
+	quest.39626EE2A800A898.quest_desc: [
+		"Create Jetpack: a backtank that flies on compressed air. Charge it like a backtank (place it and give it rotation) before island-hopping."
+		"Hover mode helps when building under an island."
+	]
+	quest.39626EE2A800A898.title: "Jetpack"
+	quest.3974C912809DFDDC.quest_desc: [
+		"Brass ingots (copper + zinc, heated Mixer), pressed into sheets. Every Mk. II upgrade uses one."
+	]
+	quest.3974C912809DFDDC.title: "Brass sheets"
+	quest.39D8C348787F37F5.quest_desc: [
+		"Cannons attach to ships on assembly; recoil pushes the ship. Mount them low and centred."
+	]
+	quest.39D8C348787F37F5.title: "Armed airship"
+	quest.3B98F45B0185F105.quest_desc: [
+		"Create trains run on tracks you build - a bridge-line between two islands is a classic project."
+	]
+	quest.3B98F45B0185F105.title: "Trains"
+	quest.3B9E4F5CD8073BD3.quest_desc: [
+		"Mk. V = category part, an echo shard, a netherite ingot, Neural Gel and a press - four loops. The Rig needs 256 RPM."
+		"Mk. V unlocks the signature tricks: Sandevistan's Temporal Anchor, Regenerator Burst, camo Re-cloak and more. Read the tooltip."
+		"Do not install a Tier V implant you cannot power: 256 RPM is a serious drive train."
+	]
+	quest.3B9E4F5CD8073BD3.title: "Grade V: Experimental"
+	quest.3C0083216B96355F.quest_desc: [
+		"Fast-firing guns using cartridges - great for shooting down pillager balloons."
+	]
+	quest.3C0083216B96355F.title: "Autocannons"
+	quest.3CBA5EAF23BC2E25.quest_desc: [
+		"Break the two ice blocks over a solid block to get two water sources. Two sources next to each other make an infinite spring."
+	]
+	quest.3CBA5EAF23BC2E25.title: "Infinite water"
+	quest.3D71AFA61AD4E117.quest_desc: [
+		"A mechanical drill facing a cobblestone generator never runs out. Pair it with belts or chutes."
+	]
+	quest.3D71AFA61AD4E117.title: "Automated cobblestone"
+	quest.3DC2A43025357516.quest_desc: [
+		"There is no bedrock in the sky, so oil does not pool beneath the islands. Two sources:"
+		" - pumpjacks on oil deposits at the bottom of the &cNether&r (Skyworks adds them there);"
+		" - &eSkyworks bio-crude:&r superheated compacting of 8 leaves + water (hydrothermal liquefaction)."
+	]
+	quest.3DC2A43025357516.title: "Crude oil in the sky"
+	quest.3DC4C152CC55D9CB.quest_desc: [
+		"Emotecraft: press &eB&r for the emote wheel. Players on the server see your emotes."
+	]
+	quest.3DC4C152CC55D9CB.title: "Emotes"
+	quest.3E02ACEA014A1C01.quest_desc: [
+		"Dreams \\& Desires sails turn a fan into freezing, sanding, seething and other processes (see JEI)."
+	]
+	quest.3E02ACEA014A1C01.title: "Special sails"
+	quest.40EA7A43631B0B8D.quest_desc: [
+		"Options → Controls has a search box (Controlling). Many mods add keys - check for conflicts."
+	]
+	quest.40EA7A43631B0B8D.title: "Searchable controls"
+	quest.41370BD350C0E8DF.quest_desc: [
+		"Disenchants items into liquid experience."
+	]
+	quest.41370BD350C0E8DF.title: "Mechanical grindstone"
+	quest.414C6F8E8D21CCFE.quest_desc: [
+		"Islands near spawn are usually 30-120 blocks away. Bridge across with cobblestone (sneak at the edge!) or plan a first balloon."
+		"Nearby islands have iron, copper, zinc and coal ore, andesite, animals and wood."
+	]
+	quest.414C6F8E8D21CCFE.title: "Reaching the next island"
+	quest.43202D5A66AA68CA.quest_desc: [
+		"When two mods use the same recipe, Polymorph shows a button in the crafting GUI to pick the output."
+	]
+	quest.43202D5A66AA68CA.title: "Recipe conflicts"
+	quest.445D656BD1368D26.quest_desc: [
+		"Echo shards come from &eancient cities&r - over 1000 blocks from spawn, often hanging over the void."
+		"Take an airship. Ancient scroll caches hold a few shards too. Every Mk. V loop uses one."
+	]
+	quest.445D656BD1368D26.title: "Echoes from the deep"
+	quest.454AFE3E1C014864.quest_desc: [
+		"Create Ore Excavation hides infinite ore veins in chunks - also above the void."
+		"Right-click the vein finder to see nearby veins (the vein atlas keeps a list)."
+	]
+	quest.454AFE3E1C014864.title: "Ore veins"
+	quest.456139704C9A6B31.quest_desc: [
+		"Cannon parts are cast from molten metal in moulds and bored with a cannon drill, or crafted directly at low tier."
+	]
+	quest.456139704C9A6B31.title: "Barrel and chamber"
+	quest.4596943F040E26C7.quest_desc: [
+		"A crank-fed gatling: needs a precision mechanism and a round belt."
+	]
+	quest.4596943F040E26C7.title: "Gatling"
+	quest.45AF66D3C6A9D1C3.quest_desc: [
+		"Big cartridges replace loose powder charges in quick-firing breeches."
+	]
+	quest.45AF66D3C6A9D1C3.title: "Big cartridges"
+	quest.46279D89BE16B6DF.quest_desc: [
+		"Mechanical crafting with steel and brass. Revolver rounds come off a sequenced-assembly line."
+	]
+	quest.46279D89BE16B6DF.title: "Revolver"
+	quest.46786A445AEB09F1.quest_desc: [
+		"Charges items wirelessly - and zaps mobs."
+	]
+	quest.46786A445AEB09F1.title: "Tesla coil"
+	quest.468CB6960981D346.quest_desc: [
+		"Belts connect two shafts and move items. Funnels put items on and take them off."
+	]
+	quest.468CB6960981D346.title: "Mechanical belts"
+	quest.47385C7A683B68DA.quest_desc: [
+		"A heavy press for compacting recipes no mechanical press can do."
+	]
+	quest.47385C7A683B68DA.title: "Hydraulic press"
+	quest.47506C8DD20C9A10.quest_desc: [
+		"&eSkyworks:&r the zinc mesh sifts gravel into lead, nickel, lithium, bauxite, lignite, tin, silver and sulfur,"
+		"and sifter dust into the trace elements used by Chemica (cobalt, antimony, fluorite, phosphorus...)."
+	]
+	quest.47506C8DD20C9A10.title: "Industrial minerals"
+	quest.484856D325735E76.quest_desc: [
+		"The Chassis goes in your spine; Processor, RAM and Storage plug into it on the Rig."
+		"Each is a Mechanical Crafter recipe with a Precision Mechanism and a redstone part (repeater, comparator, lamp, chest)."
+		"Press &eK&r to write &eSynapse&r programs that react to your body and drive your implants."
+		"The Field Manual has a first program and a cheat sheet."
+	]
+	quest.484856D325735E76.title: "A cyberdeck"
+	quest.48CB630FE4817E70.quest_desc: [
+		"Mine iron ore on neighbouring islands. Your first Create machines need a little iron for nuggets and sheets."
+	]
+	quest.48CB630FE4817E70.title: "First iron"
+	quest.49EA2F7234086678.quest_desc: [
+		"Wheat and water in the keg. Serve it in a tankard."
+	]
+	quest.49EA2F7234086678.title: "First beer"
+	quest.4A1535AB9064E28D.quest_desc: [
+		"Deployers use items like a player: placing, clicking, applying. Key for sequenced assembly."
+	]
+	quest.4A1535AB9064E28D.title: "Deployer"
+	quest.4B22BAC3229EDF09.quest_desc: [
+		"Scrolls display patterns. Ancient scrolls teach great spells - the only ones are rare caches in ancient city chests."
+	]
+	quest.4B22BAC3229EDF09.title: "Scrolls"
+	quest.4C096BC1BE708852.quest_desc: [
+		"Mechanical Mixer, no heat: 250 mB water + slime ball + bone meal + sugar = 250 mB gel."
+		"Bone meal: skeletons, or compost your crop surplus. Sugar: sugar cane."
+		"Every operation on the Rig uses 250 mB, so pipe it straight into the Rig."
+	]
+	quest.4C096BC1BE708852.title: "Bio-Interface Gel"
+	quest.4CE5564B2B046AD7.quest_desc: [
+		"&eSkyworks:&r a Crafts \\& Additions charger infuses shards into charged amethyst. Industrial Arcana indeed."
+	]
+	quest.4CE5564B2B046AD7.title: "Charged amethyst"
+	quest.4DE87E33A28D168A.quest_desc: [
+		"A one-shot iota storage you can write once."
+	]
+	quest.4DE87E33A28D168A.title: "Thought knot"
+	quest.4E46A1C1C384372B.quest_desc: [
+		"Mechanical jukeboxes and records powered by Create."
+	]
+	quest.4E46A1C1C384372B.title: "Create Harmonics"
+	quest.4E90F25A16EFA321.quest_desc: [
+		"Cannon mounts aim with rotational power: one input for yaw, one for pitch."
+	]
+	quest.4E90F25A16EFA321.title: "Cannon mount"
+	quest.50A6E78E56C5FD44.quest_desc: [
+		"Blackstone stars with a molten core float in the Nether void. Each hides 2-5 ancient debris next to its lava -"
+		"the only ancient debris in the world, and so the only netherite."
+	]
+	quest.50A6E78E56C5FD44.title: "Nether meteors"
+	quest.50E893A0FAFD1656.quest_desc: [
+		"Apply andesite alloy to stripped logs. Most early machines are built from casings."
+	]
+	quest.50E893A0FAFD1656.title: "Andesite casing"
+	quest.5146A3ED39828566.quest_desc: [
+		"Show storage counts, speeds or train times on a big board."
+	]
+	quest.5146A3ED39828566.title: "Display boards"
+	quest.517A7EF4034EE15A.quest_desc: [
+		"Mounted on a piston or bearing, harvesters collect crops without breaking the farm."
+	]
+	quest.517A7EF4034EE15A.title: "Harvesters"
+	quest.51AA85EBCA2AB5EA.quest_desc: [
+		"Lower cargo or a lift platform from your ship to an island below."
+	]
+	quest.51AA85EBCA2AB5EA.title: "Rope winch"
+	quest.51DDEB7D63261F37.quest_desc: [
+		"Create: Gunsmithing guns are assembled with Create machines. Start with a flintlock and paper cartridges"
+		"(paper + gunpowder + lead nugget). Lead: zinc-mesh sifting or lead ore on islands."
+	]
+	quest.51DDEB7D63261F37.title: "Flintlock"
+	quest.52217CA2F08F44A7.quest_desc: [
+		"Cannon loaders (pistons for cannons) automate loading. Combine with deployers and belts for an ammo line."
+	]
+	quest.52217CA2F08F44A7.title: "Automatic loading"
+	quest.52ED050E4CCE07DD.quest_desc: [
+		"A fan blowing through water washes items; through lava it smelts; through fire it smokes."
+		"Washing gravel gives iron nuggets and flint: your first renewable iron."
+	]
+	quest.52ED050E4CCE07DD.title: "Encased fan"
+	quest.54E5A60511D828B5.quest_desc: [
+		"Crushing dirt yields nitrate dust. With Skyworks' renewable dirt, nitrates are fully automatable."
+	]
+	quest.54E5A60511D828B5.title: "Nitrate dust"
+	quest.55D6A25EDABC69DF.quest_desc: [
+		"The pack ships tuned low settings (6 chunk render distance). If your PC can take more, raise it in Video Settings."
+		"See the PERFORMANCE notes in the pack's docs folder for the Low-End and Standard presets."
+	]
+	quest.55D6A25EDABC69DF.title: "Low-end friendly"
+	quest.56421D47FFEFA2DA.quest_desc: [
+		"Close-range defence against mobs that land on your ship. Flechette and incendiary shells exist."
+	]
+	quest.56421D47FFEFA2DA.title: "Shotgun"
+	quest.568B0BC07936FEC4.quest_desc: [
+		"Build a platform over the vein chunk and power the drilling machine with heavy rotation:"
+		"it mines raw ore forever. A good reason for an ore-hauling airship."
+	]
+	quest.568B0BC07936FEC4.title: "Drilling machine"
+	quest.56CE081E97B2325B.quest_desc: [
+		"Create Mobile Packages: robo bees fly packages from a bee port to you or to another port - even across islands."
+	]
+	quest.56CE081E97B2325B.title: "Delivery bees"
+	quest.5789D294E5025EEF.quest_desc: [
+		"Smelt iron in a blast furnace (or fan + lava) to get cast iron, the first cannon metal."
+	]
+	quest.5789D294E5025EEF.title: "Cast iron"
+	quest.592B15364E351F22.quest_desc: [
+		"Graphite from Chemica ores or processing - used for electrodes and carbon materials."
+	]
+	quest.592B15364E351F22.title: "Graphite"
+	quest.5A306BB908C7950B.quest_desc: [
+		"Saws cut logs into planks and fell trees when on a moving contraption: an automatic tree farm."
+	]
+	quest.5A306BB908C7950B.title: "Mechanical saw"
+	quest.5AF4E119F5F1933F.quest_desc: [
+		"Levitite is a floating crystal mixed from end stone powder; it lifts ships without hot air."
+	]
+	quest.5AF4E119F5F1933F.title: "Levitite"
+	quest.5AF8918A88CADC53.quest_desc: [
+		"Guncotton: paper + gunpowder + redstone acidifier + water, then harden and mill it. Smokeless and much stronger."
+	]
+	quest.5AF8918A88CADC53.title: "Nitropowder"
+	quest.5B3A1A7003D1A183.quest_desc: [
+		"Right-click with a staff to open the casting grid. Read the in-game Hex Notebook - the magic is the programming."
+	]
+	quest.5B3A1A7003D1A183.title: "A staff"
+	quest.5C33708B4FBC6ABF.quest_desc: [
+		"Toolboxes share hotbar tools; a copper backtank powers the extendo grip and diving gear."
+	]
+	quest.5C33708B4FBC6ABF.title: "Toolbox \\& backtank"
+	quest.5C382ABF6EEBD95A.quest_desc: [
+		"Every implant needs the Core: it sets your Neural Capacity and your Charge battery."
+		"Mechanical Crafter array (3x3): iron sheets, copper sheets, Andesite Casings, a Precision Mechanism and a redstone block."
+		"Redstone on islands, or sift sand. Install the Core first."
+	]
+	quest.5C382ABF6EEBD95A.title: "Cybernetic Core"
+	quest.5C98BEF5D9140192.quest_desc: [
+		"Create Factory Logistics: jar packagers send fluids through Create's package network."
+	]
+	quest.5C98BEF5D9140192.title: "Fluid packages"
+	quest.5CAF9EABBF10A6E6.quest_desc: [
+		"Spools connect connectors; electricity travels along wires."
+	]
+	quest.5CAF9EABBF10A6E6.title: "Wires"
+	quest.5CBECE38555D3F7B.quest_desc: [
+		"End cities (elytra, shulker shells) float far from the main island. Sturdy meshes sift crushed end stone for pearls."
+	]
+	quest.5CBECE38555D3F7B.title: "The End"
+	quest.5D182F95BE30553F.quest_desc: [
+		"Carry a vault or chests aboard and haul ore between islands. Remember: unloaded chunks stop ships."
+	]
+	quest.5D182F95BE30553F.title: "Flying freighter"
+	quest.5DC2BDA964E0F365.quest_desc: [
+		"Chop the tree, replant every sapling. Leaves drop more saplings; never let your last sapling fall into the void."
+	]
+	quest.5DC2BDA964E0F365.title: "Timber!"
+	quest.5DDEC324F016D616.quest_desc: [
+		"Monitors display the radar picture; link them to the radar."
+	]
+	quest.5DDEC324F016D616.title: "Radar monitor"
+	quest.5EDB1069661A78FC.quest_desc: [
+		"Skyworks adds TFMG oil deposits at the bottom of the Nether: build a pumpjack there."
+	]
+	quest.5EDB1069661A78FC.title: "Nether oil"
+	quest.5EEBAC67C880881D.quest_desc: [
+		"Create Encased: right-click shafts, cogwheels and pipes with any casing; Brass Gearbox (Create CA) and Bits 'n' Bobs add more parts."
+	]
+	quest.5EEBAC67C880881D.title: "Any casing"
+	quest.6021EFB935392716.quest_desc: [
+		"Toggle them on the Implant Wheel (hold &eR&r) to walk up iron, copper and Create metal walls."
+		"Signature: iron boots, plus a piston. Upkeep is Charge per second while you cling."
+	]
+	quest.6021EFB935392716.title: "Magnetic soles"
+	quest.6117481665174663.quest_desc: [
+		"Slice \\& Dice: the slicer does cutting-board recipes with Create power."
+	]
+	quest.6117481665174663.title: "Automated slicing"
+	quest.61837379F54F39F1.quest_desc: [
+		"Kinetic chunk loaders keep a factory running while you are away. The brass one also works on airships and trains"
+		"(Skyworks limits it to 3x3 chunks to keep servers light)."
+	]
+	quest.61837379F54F39F1.title: "Chunk loaders"
+	quest.621DD98607AA5B65.quest_desc: [
+		"Create Big Cannons 5.11 supports Sable: cannons assemble onto airships, recoil pushes the ship, and shots"
+		"inherit the ship's velocity. Tested on the dedicated server only for loading - see TEST_RESULTS.md before trusting it in a fight."
+	]
+	quest.621DD98607AA5B65.title: "Mobile artillery"
+	quest.62365C3B7FECBCA5.quest_desc: [
+		"Inventory Profiles Next: middle-click (or the buttons) sorts containers; auto-refill replaces broken tools."
+		"Mouse Tweaks: scroll to move items, drag to spread."
+	]
+	quest.62365C3B7FECBCA5.title: "Inventory sorting"
+	quest.6368F2E8D3884CDF.quest_desc: [
+		"Millstones grind cobblestone into gravel, gravel into flint, and much more. Gravel is the root of all skyblock ore."
+	]
+	quest.6368F2E8D3884CDF.title: "Millstone"
+	quest.63E1AD87667D5023.quest_desc: [
+		"HexFlow adds iteration and flow-control patterns; HexParse lets you write hexes as text and compile them."
+	]
+	quest.63E1AD87667D5023.title: "Loops and flow (HexFlow)"
+	quest.64FF4843F9EAC0E7.quest_desc: [
+		"Distillation towers split crude oil into heavy oil, diesel, kerosene, naphtha, gasoline and gas."
+	]
+	quest.64FF4843F9EAC0E7.title: "Distillation"
+	quest.652EEAA15F1C216E.quest_desc: [
+		"Falling into the void destroys your items. Sneak at edges, put rails on bridges,"
+		"and keep valuables in a chest at home before exploring."
+	]
+	quest.652EEAA15F1C216E.title: "Void safety"
+	quest.65ACFC896AF3BB36.quest_desc: [
+		"Alternators turn rotation into FE; electric motors turn it back. Chargers can also charge amethyst."
+	]
+	quest.65ACFC896AF3BB36.title: "Electricity (Crafts \\& Additions)"
+	quest.669BFA6E4544D882.quest_desc: [
+		"Video Settings has extra Sodium pages (Sodium Extra): turn off animations, particles, fog if FPS is low."
+		"Dynamic FPS lowers the frame rate while the game is in the background."
+		"Presets: run scripts/apply-preset.sh lowend|standard, or see docs/PERFORMANCE.md."
+	]
+	quest.669BFA6E4544D882.title: "Smooth on weak PCs"
+	quest.66AC030929148B70.quest_desc: [
+		"You stand on a small island floating over an endless void. Other islands drift in every direction -"
+		"small cone-shaped islands of forest, desert or snow, 20-40 blocks across and far apart, and the odd quartz meteor."
+		""
+		"&cFalling into the void is fatal and your items are lost.&r Build carefully and keep a bridge rail."
+		"Open the starter chest next to the tree: ice (water), a lava bucket, a dripstone drip kit, moss, sugar cane, seeds and a lightning rod."
+	]
+	quest.66AC030929148B70.quest_subtitle: "Read me first"
+	quest.66AC030929148B70.title: "Welcome to the Skies"
+	quest.66BF0332DF5E032E.quest_desc: [
+		"Create's sturdy sheet: powdered obsidian (crush obsidian from your cobble generator's lava) pressed and assembled."
+	]
+	quest.66BF0332DF5E032E.title: "Sturdy sheets"
+	quest.671D5C90804C60D5.quest_desc: [
+		"A borehead bearing drills through rock while driving - a mobile ore miner."
+	]
+	quest.671D5C90804C60D5.title: "Mining vehicles"
+	quest.67592D8143B4377A.quest_desc: [
+		"Cyphers, trinkets and artifacts carry a hex you can trigger with one click."
+	]
+	quest.67592D8143B4377A.title: "Casting items"
+	quest.67ACCBA3D1C9EDDB.quest_desc: [
+		"Gravel through an andesite mesh: iron, copper, zinc and gold nuggets, coal and flint."
+		"Sand gives redstone, gold nuggets, cactus and gunpowder; sifter dust gives glowstone, redstone and blaze powder."
+	]
+	quest.67ACCBA3D1C9EDDB.title: "Andesite mesh"
+	quest.67EFE32ED7217297.quest_desc: [
+		"Smart propellers adjust thrust automatically with redstone."
+	]
+	quest.67EFE32ED7217297.title: "Smart propellers"
+	quest.6816537571119F05.quest_desc: [
+		"Sifters shake loose material through a mesh. String meshes sift dirt for seeds and stone pebbles."
+	]
+	quest.6816537571119F05.title: "The sifter"
+	quest.689195DD51C0F71D.quest_desc: [
+		"Arms move items between up to many inputs/outputs in range. Right-click targets while holding the arm."
+	]
+	quest.689195DD51C0F71D.title: "Mechanical arm"
+	quest.68C9327CA9E5490E.quest_desc: [
+		"Points to the few structures there are: strongholds, fortresses, meteors, ancient and End cities."
+	]
+	quest.68C9327CA9E5490E.title: "Explorer's Compass"
+	quest.68FC8473B7AB0032.quest_desc: [
+		"Only strongholds, Nether fortresses, Nether meteors, ancient cities and End cities generate - no villages, ruins or dungeons."
+		"None of them is within 1000 blocks of your start island, and two of a kind are 700-1000 blocks apart. Build an airship first."
+	]
+	quest.68FC8473B7AB0032.title: "Nothing near home"
+	quest.6993A02DD08DEE82.quest_desc: [
+		"Altitude, velocity and gimbal sensors output redstone - build an altitude hold."
+	]
+	quest.6993A02DD08DEE82.title: "Autopilot sensors"
+	quest.6AE850C86CA23677.quest_desc: [
+		"Hold &eW&r over almost any Create (and many addon) block to watch an animated tutorial."
+	]
+	quest.6AE850C86CA23677.title: "Ponder"
+	quest.6C2D9081C3A1E5E3.quest_desc: [
+		"Tunnels split belt traffic evenly. Brass tunnels can filter and round-robin."
+	]
+	quest.6C2D9081C3A1E5E3.title: "Tunnels"
+	quest.6C3E8975993C5B03.quest_desc: [
+		"Ocean climates are open void with only rare, small islets. Plan fuel and a way home before crossing."
+	]
+	quest.6C3E8975993C5B03.title: "The void seas"
+	quest.6C9B1AD4A0EEF1C9.quest_desc: [
+		"Chemical vats run electrolysis, acid reactions and leaching. Many Chemica recipes need specific vat setups (see JEI)."
+	]
+	quest.6C9B1AD4A0EEF1C9.title: "Chemical vat"
+	quest.6D0FA79299F60AAC.quest_desc: [
+		"Soups and stews give long-lasting buffs. Needs a heat source below (campfire, stove, blaze burner)."
+	]
+	quest.6D0FA79299F60AAC.title: "Cooking pot"
+	quest.6F1D1F8AEFACE8F3.quest_desc: [
+		"Carbon fibre composites: strong and light - the ultimate airship material."
+	]
+	quest.6F1D1F8AEFACE8F3.title: "Carbon fibre"
+	quest.6F3007E6EF2FAB11.quest_desc: [
+		"Create: Sound of Steam - pipe organs played by steam and a keyboard relay."
+	]
+	quest.6F3007E6EF2FAB11.title: "Pipe organ"
+	quest.6F7B859A75FDDBA3.quest_desc: [
+		"Nixie tubes, lamps, tiles, chain pulleys and more decorative mechanics."
+	]
+	quest.6F7B859A75FDDBA3.title: "Bits 'n' Bobs"
+	quest.6F92F828EC5DE890.quest_desc: [
+		"Place the dripstone block, put a lava source on top of it and hang pointed dripstone underneath."
+		"Lava slowly drips from the tip: catch it with a bucket for a renewable lava supply before you reach the Nether."
+	]
+	quest.6F92F828EC5DE890.title: "Dripstone lava farm"
+	quest.6FD16C5056F24AFC.quest_desc: [
+		"Drop mortars lob shells over cover - simple artillery for island defence."
+	]
+	quest.6FD16C5056F24AFC.title: "Drop mortars"
+	quest.6FF396E54FCD0BFA.quest_desc: [
+		"Sulfur + nitrate + water in a vat. Acids leach ores for bonus output and feed nitration."
+	]
+	quest.6FF396E54FCD0BFA.title: "Sulfuric acid"
+	quest.7086BE69AFBF7B50.quest_desc: [
+		"Catch a blaze from a Nether fortress with an empty blaze burner. Fuel it to heat a basin."
+		"Superheating (blaze cake) unlocks the hardest recipes."
+	]
+	quest.7086BE69AFBF7B50.title: "Blaze burner"
+	quest.70CBE8C3AB1F79AB.quest_desc: [
+		"Pumps push fluids through pipes; spouts fill items; item drains empty them."
+	]
+	quest.70CBE8C3AB1F79AB.title: "Fluids"
+	quest.70F6343913A9600F.quest_desc: [
+		"Distil the alcohol base. Pipe it straight into bottles with Create."
+	]
+	quest.70F6343913A9600F.title: "Vodka"
+	quest.711AAC39C4C2F1C9.quest_desc: [
+		"Right-click to pick a biome; the needle points to the nearest island of that biome."
+	]
+	quest.711AAC39C4C2F1C9.title: "Nature's Compass"
+	quest.71202E69E0ADE94F.quest_desc: [
+		"Create Radars: a spinning radar bearing with dish plates detects ships, mobs and players."
+	]
+	quest.71202E69E0ADE94F.title: "Radar"
+	quest.71D346AED6E0238E.quest_desc: [
+		"Mixers combine items and fluids in a basin."
+		"&eSkyworks recipe:&r gravel + 2 bone meal + water = dirt (renewable dirt for farms, sifting and nitrates)."
+	]
+	quest.71D346AED6E0238E.title: "Mechanical mixer"
+	quest.72BDE71486CECCE2.quest_desc: [
+		"Polished Rose Quartz (quartz + redstone, then sand it) on an iron sheet."
+		"Optical, neural and speed implants use one, and so does every Mk. II upgrade."
+	]
+	quest.72BDE71486CECCE2.title: "Electron tubes"
+	quest.73ABCF0CEC3253F5.quest_desc: [
+		"Grape bushes grow on plains and forest islands. &eSkyworks:&r sifting dirt through a string mesh can also drop red and white grape bushes."
+	]
+	quest.73ABCF0CEC3253F5.title: "Grapes"
+	quest.73BE0F0BDFA1984A.quest_desc: [
+		"Offroad: wheels make cars and trucks for big islands."
+	]
+	quest.73BE0F0BDFA1984A.title: "Ground vehicles"
+	quest.73D37279BAB42206.quest_desc: [
+		"Presses flatten ingots into sheets (needed for propellers, super glue and more) and compact items in a basin."
+	]
+	quest.73D37279BAB42206.title: "Mechanical press"
+	quest.73E60C0C2CF9333A.quest_desc: ["Rolls ingots into rods and wires."]
+	quest.73E60C0C2CF9333A.title: "Rolling mill"
+	quest.73FF53F5F1401D4D.quest_desc: [
+		"Upgrades are sequenced assemblies: put the Mk. I implant on a belt (JEI: the implant's uses). The old implant is consumed."
+		"Mk. II = the implant's category part, an Electron Tube, 100 mB Bio-Interface Gel, a brass sheet and a press - one loop."
+		"The Rig needs 32 RPM. Your settings stay when you swap an implant for its upgrade."
+	]
+	quest.73FF53F5F1401D4D.title: "Grade II: Industrial"
+	quest.7494612A2B8E4718.quest_desc: [
+		"Pistons, bearings, gantries and minecarts can move whole machines. Glue them with super glue."
+	]
+	quest.7494612A2B8E4718.title: "Contraptions"
+	quest.74D76E6BDBD7B706.quest_desc: [
+		"Boilers on fluid tanks with heat and water: large, reliable power for factories."
+	]
+	quest.74D76E6BDBD7B706.title: "Steam engines"
+	quest.74F692CBB751DD8F.quest_desc: [
+		"Ancient debris smelted into scrap: Nether meteors hold 2-5 debris each. Every Mk. IV loop uses one scrap."
+	]
+	quest.74F692CBB751DD8F.title: "Netherite scrap"
+	quest.75261E297BA4F9C4.quest_desc: [
+		"List and attribute filters control what funnels, arms and smart chutes accept."
+	]
+	quest.75261E297BA4F9C4.title: "Filters"
+	quest.760C1B9585D6A7CA.quest_desc: [
+		"Hover an item and press &eR&r for recipes, &eU&r for uses."
+		"Type &e@create&r to filter by mod, &e#tag&r for tags. Bookmark with &eA&r."
+	]
+	quest.760C1B9585D6A7CA.title: "Recipe lookup (JEI)"
+	quest.764CA684D85432C8.quest_desc: [
+		"Crushing wheels turn cobblestone -> gravel -> sand -> sifter dust, with bonus byproducts."
+	]
+	quest.764CA684D85432C8.title: "Crushing wheels"
+	quest.76FC3FAB88E63449.quest_desc: [
+		"MieHex adds enchantment and 'idea' iotas: read, merge and apply enchantments with hexes."
+		"Its pages are in the Hex Notebook."
+	]
+	quest.76FC3FAB88E63449.title: "Enchantment iotas"
+	quest.77A375DCACD0FFE9.quest_desc: [
+		"Create: Alcohol Industry - automated beer, cider, vodka, whiskey, rum and tequila with presses, barrels and a boiler."
+	]
+	quest.77A375DCACD0FFE9.title: "Distillery"
+	quest.77BAFF4125A40C99.quest_desc: [
+		"Packagers box items; frogports throw packages along chain lines between your islands."
+	]
+	quest.77BAFF4125A40C99.title: "Packages \\& frogports"
+	quest.77C7E2CD8644EE9D.quest_desc: [
+		"A water wheel in flowing water is the classic first power source. A hand crank works in a pinch."
+	]
+	quest.77C7E2CD8644EE9D.title: "Power from water"
+	quest.78736E09A36C348D.quest_desc: [
+		"A bigger, stronger fan for big processing lines."
+	]
+	quest.78736E09A36C348D.title: "Industrial fan"
+	quest.7886C03B8FC2B253.quest_desc: [
+		"Every island is a lone cone 20-40 blocks across, 100+ blocks from the next one, tops at y 70-190."
+		"Ores are scarce (about 1 block in 80): mine whole islands, or automate."
+	]
+	quest.7886C03B8FC2B253.title: "Island hopping"
+	quest.7950C2292976672B.quest_desc: [
+		"Ancient cities lie deep below the islands, in the deep dark. Few chests (about 1 in 20) hold an ancient scroll cache:"
+		"a Hex Casting great spell with charged amethyst and echo shards. Mind the warden."
+	]
+	quest.7950C2292976672B.title: "Ancient cities"
+	quest.79BBD2C057B4BDC7.quest_desc: [
+		"Sulfur comes from crushing redstone ore, from Nether sulfur deposits, or from the zinc mesh sifter."
+	]
+	quest.79BBD2C057B4BDC7.title: "Sulfur"
+	quest.79DC285C1B684A45.quest_desc: [
+		"TFMG engines burn gasoline, diesel or LPG for huge rotational power - a strong airship engine."
+	]
+	quest.79DC285C1B684A45.title: "Combustion engines"
+	quest.7A2390DEC289F3A2.quest_desc: [
+		"Brass, copper, iron and gunpowder. Throw, don't hold."
+	]
+	quest.7A2390DEC289F3A2.title: "Frag grenades"
+	quest.7A67274EA98F515F.quest_desc: [
+		"4 scrap + 4 gold ingots. Every Mk. V loop deploys one ingot: for a full set, farm the Nether meteors."
+	]
+	quest.7A67274EA98F515F.title: "Netherite ingots"
+	quest.7AEE999F087590EF.quest_desc: [
+		"Steering wheels, throttles and redstone links let you fly from a helm."
+		"Not every Create machine runs on a moving ship - test and check COMPATIBILITY.md in the docs folder."
+	]
+	quest.7AEE999F087590EF.title: "Controls"
+	quest.7CF10D61633AF28C.quest_desc: [
+		"Till dirt next to water and plant your seeds. Bone meal speeds things up."
+		"Animals do not spawn on your start island - look for them on grassy islands nearby."
+	]
+	quest.7CF10D61633AF28C.title: "Bread, not void"
+	quest.7E3C4A35D05AD2D6.quest_desc: [
+		"Immersive Paintings: right-click a placed painting to load any image, pixelated to fit."
+	]
+	quest.7E3C4A35D05AD2D6.title: "Custom paintings"
+	quest.7F407C1431274E25.quest_desc: [
+		"Through lava: smelting. Through fire: smoking. Through soul fire: haunting."
+	]
+	quest.7F407C1431274E25.title: "Fan smelting \\& smoking"
+}

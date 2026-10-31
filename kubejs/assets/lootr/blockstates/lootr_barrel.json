@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=down,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=down,open=true": {"model": "lootr:block/lootr_barrel"},
+    "facing=east,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=east,open=true": {"model": "lootr:block/lootr_barrel"},
+    "facing=north,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=north,open=true": {"model": "lootr:block/lootr_barrel"},
+    "facing=south,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=south,open=true": {"model": "lootr:block/lootr_barrel"},
+    "facing=up,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=up,open=true": {"model": "lootr:block/lootr_barrel"},
+    "facing=west,open=false": {"model": "lootr:block/lootr_barrel"},
+    "facing=west,open=true": {"model": "lootr:block/lootr_barrel"}
+  }
+}

@@ -1,0 +1,8 @@
+name = "Hex Casting"
+filename = "hexcasting-neoforge-1.21.1-0.12.0-devel-pre-64.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/702c2f98160d7397/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-64.jar"
+hash-format = "sha512"
+hash = "bd47a18556aadd59e1c4992fc2a707e0bcb9ae853fad2f54d88d688a05e1d8c597c45743efd78e35b65bc9762b83e361ca4b08ee14d01380b4a85a1f6c07d9e6"

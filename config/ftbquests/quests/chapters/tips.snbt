@@ -1,0 +1,288 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tips"
+	group: ""
+	icon: {
+		id: "minecraft:spyglass"
+	}
+	id: "0F04D28CD522179C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "760C1B9585D6A7CA"
+			rewards: [
+				{
+					id: "3CFD19781A05B9FF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "20578C35CFF2ADBD"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "6AE850C86CA23677"
+			rewards: [
+				{
+					id: "6F42C4AAEC32ECE9"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4455500E9BDF5FCA"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "1C997BA606DB131E"
+			rewards: [
+				{
+					id: "4407CD33AA042038"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "7852E2D05168F362"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "40EA7A43631B0B8D"
+			rewards: [
+				{
+					id: "77EB048C0A25BA0F"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "44C2C51D6EA36C70"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "711AAC39C4C2F1C9"
+			rewards: [
+				{
+					id: "2F8C210226B61760"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "26CB875E1B199620"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "68C9327CA9E5490E"
+			rewards: [
+				{
+					id: "6A0AB231D11B7C2E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "2A691AB3C39D7F29"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "2A3FFB822D4CC670"
+			rewards: [
+				{
+					id: "0B28AFED501EDC23"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0E18EDEE4D0DE606"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "62365C3B7FECBCA5"
+			rewards: [
+				{
+					id: "0BF65CBF400EA95D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "71DE758360F8837D"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "43202D5A66AA68CA"
+			rewards: [
+				{
+					id: "580CCAEA9CA2633A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "450E6681D95E054A"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "16412B600BED18C0"
+			rewards: [
+				{
+					id: "244443F50C415537"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3893218184DC9F0C"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "669BFA6E4544D882"
+			rewards: [
+				{
+					id: "48399BFE48DA539B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6AC375D83C48B048"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "2BF25DB32E16C19D"
+			rewards: [
+				{
+					id: "1CF2FF9E85E6069D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "46F5E6BC6D1E991D"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "652EEAA15F1C216E"
+			rewards: [
+				{
+					id: "05E81D1DCA609526"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4A99EBB5F1C757E4"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "04F017B8544278BD"
+			rewards: [
+				{
+					id: "480C88E5CB50D5D2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4C6C9A9E2A60055C"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

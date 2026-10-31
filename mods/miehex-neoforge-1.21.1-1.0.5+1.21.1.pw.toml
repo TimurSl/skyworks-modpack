@@ -1,0 +1,8 @@
+name = "MieHex"
+filename = "miehex-neoforge-1.21.1-1.0.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzEVNdoK/versions/ZDL8wZzR/miehex-neoforge-1.21.1-1.0.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c036d12bdb75d26e6d2c3407a459fefe80d5564636de3f406db2ce247b389e3db7f6eaa401a6967d2c5cb3352d331cb07cbe0eea000d1575e6cfb5b3b51321b6"

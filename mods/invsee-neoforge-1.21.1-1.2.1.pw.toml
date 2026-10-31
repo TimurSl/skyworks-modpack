@@ -1,0 +1,8 @@
+name = "InvSee"
+filename = "invsee-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/javU3y9N/versions/5tLgbSJ1/invsee-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "0eda7a6146c91c6c30a62f670995091dccfe2da6322bacec5f00d50ad08fc8037cb4767d6f4b0406e6636b7ae6bd43d33d72a5b7b7a7ebea2d0d7bddb9bb274c"

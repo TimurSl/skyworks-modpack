@@ -1,0 +1,8 @@
+name = "options-lowend.txt"
+filename = "options-lowend.txt"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/b6e02a0c42d99dbf/options-lowend.txt"
+hash-format = "sha256"
+hash = "b6e02a0c42d99dbf9d75c00f98d3512c65683e37e51dc8d85caeec318f329009"

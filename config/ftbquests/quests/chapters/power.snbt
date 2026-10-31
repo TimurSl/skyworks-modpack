@@ -1,0 +1,179 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "power"
+	group: ""
+	icon: {
+		id: "createaddition:alternator"
+	}
+	id: "3573F24E55D6B754"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "73E60C0C2CF9333A"
+			rewards: [
+				{
+					id: "636F24BCF0026974"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "441070AC08B5F70A"
+					item: {
+						count: 1
+						id: "createaddition:rolling_mill"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["73E60C0C2CF9333A"]
+			id: "5CAF9EABBF10A6E6"
+			rewards: [
+				{
+					id: "689FDBC8E87E489C"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "387DCB6C98E47BB1"
+					item: {
+						count: 1
+						id: "createaddition:copper_spool"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5CAF9EABBF10A6E6"]
+			id: "323351DB4428F158"
+			rewards: [
+				{
+					id: "1D347275D51E9D05"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6445E1EF63D07EE3"
+					item: {
+						count: 1
+						id: "createaddition:modular_accumulator"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["323351DB4428F158"]
+			id: "46786A445AEB09F1"
+			rewards: [
+				{
+					id: "6EBA3F85EFEC5895"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "032C31B4DA00FBCB"
+					item: {
+						count: 1
+						id: "createaddition:tesla_coil"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "79DC285C1B684A45"
+			rewards: [
+				{
+					id: "749E737219F92004"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4DD7A3161A567C30"
+					item: {
+						count: 1
+						id: "tfmg:regular_engine"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "2C5F05C27BDCC359"
+			rewards: [
+				{
+					id: "49D53BAC3024C415"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "599DC16483A0C2D4"
+					item: {
+						count: 1
+						id: "tfmg:generator"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "08A9064A0671DA27"
+			rewards: [
+				{
+					id: "6F43FE183371A7E8"
+					type: "xp"
+					xp: 125
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "0D080893C90B7E17"
+					item: {
+						count: 1
+						id: "tfmg:aluminum_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+	]
+}

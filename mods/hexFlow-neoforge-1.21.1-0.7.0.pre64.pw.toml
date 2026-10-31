@@ -1,0 +1,8 @@
+name = "HexFlow"
+filename = "hexFlow-neoforge-1.21.1-0.7.0.pre64.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/YdTZjsWV/hexFlow-neoforge-1.21.1-0.7.0.pre64.jar"
+hash-format = "sha512"
+hash = "4bb7e504d706c0295c16322b5f8a99aa7474c7213e48defe1cd05efdda1fdc3474c1c2efcadaa404adc58b0630e6e8adf0cb7111e2da75863686a372b0c40976"

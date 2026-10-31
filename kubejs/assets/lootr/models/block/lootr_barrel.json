@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "particle": "skyworks_dweller:block/cardboard_box_side",
+    "top": "skyworks_dweller:block/cardboard_box_top",
+    "bottom": "skyworks_dweller:block/cardboard_box_top",
+    "side": "skyworks_dweller:block/cardboard_box_side"
+  }
+}

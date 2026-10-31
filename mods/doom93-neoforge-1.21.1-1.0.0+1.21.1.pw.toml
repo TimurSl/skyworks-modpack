@@ -1,0 +1,12 @@
+name = "DOOM93 Mode"
+filename = "doom93-neoforge-1.21.1-1.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/f7d1c9c426a60fa4/doom93-neoforge-1.21.1-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a05f4001e48e7bc30899f5f37efee4a6fdeefb1dcb716bd643c632c750d55cfddb0ae0cce265d1f4261eacc95311e422232e5f4af0741bf0000316841fe63497"
+
+[option]
+optional = true
+default = true

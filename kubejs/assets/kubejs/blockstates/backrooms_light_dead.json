@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kubejs:block/backrooms_light_dead"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chemistry"
+	group: ""
+	icon: {
+		id: "tfmg:steel_chemical_vat"
+	}
+	id: "022131FC544A9543"
+	order_index: 13
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54E5A60511D828B5"
+			rewards: [
+				{
+					id: "49250A43899003F4"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "6AFF9E8ED64B641B"
+					item: {
+						count: 1
+						id: "tfmg:nitrate_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "79BBD2C057B4BDC7"
+			rewards: [
+				{
+					id: "24121A376D9206CD"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "115CD3099AAE8A49"
+					item: {
+						count: 1
+						id: "tfmg:sulfur_dust"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["54E5A60511D828B5", "79BBD2C057B4BDC7"]
+			id: "1368B515D7B2C490"
+			rewards: [
+				{
+					id: "056187F06EAE2886"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 16L
+					id: "4EB87C8ED6B13B56"
+					item: {
+						count: 1
+						id: "minecraft:gunpowder"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1368B515D7B2C490"]
+			id: "6C9B1AD4A0EEF1C9"
+			rewards: [
+				{
+					id: "60DE5130F3FD10F8"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0BFA54FC8EE94E6B"
+					item: {
+						count: 1
+						id: "tfmg:steel_chemical_vat"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C9B1AD4A0EEF1C9"]
+			id: "6FF396E54FCD0BFA"
+			rewards: [
+				{
+					id: "013577AFE3DF6DB6"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "491BB72E3F06CB53"
+					item: {
+						count: 1
+						id: "tfmg:sulfuric_acid_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1368B515D7B2C490"]
+			id: "3DC2A43025357516"
+			rewards: [
+				{
+					id: "6C5F1258C84C9EFF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0E3EF3D3675F064D"
+					item: {
+						count: 1
+						id: "tfmg:crude_oil_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DC2A43025357516"]
+			id: "64FF4843F9EAC0E7"
+			rewards: [
+				{
+					id: "2FD26AAABBEDBA54"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "67DB2D3D7DFD71E6"
+					item: {
+						count: 1
+						id: "tfmg:steel_distillation_controller"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["64FF4843F9EAC0E7"]
+			id: "1DC39079DB0B6EAC"
+			rewards: [
+				{
+					id: "6B5BD0473687B0E3"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "04DB81A130B24AC5"
+					item: {
+						count: 1
+						id: "tfmg:plastic_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "280386B01AECC978"
+			rewards: [
+				{
+					id: "7FE6E31F6A8EFC1A"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "5381DA700DF23B86"
+					item: {
+						count: 1
+						id: "chemica:glass_vial"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["280386B01AECC978"]
+			id: "592B15364E351F22"
+			rewards: [
+				{
+					id: "62A5B6B6C2A4CBCE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "3EA770C1F4271DEE"
+					item: {
+						count: 1
+						id: "chemica:graphite_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["592B15364E351F22"]
+			id: "06E97EB22173E7E2"
+			rewards: [
+				{
+					id: "49EC5641FFF0B39B"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "5BDFE0E2FAC26145"
+					item: {
+						count: 1
+						id: "chemica:cured_epoxy_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["06E97EB22173E7E2"]
+			id: "6F1D1F8AEFACE8F3"
+			rewards: [
+				{
+					id: "2B154CC42715AFAD"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "6B717CEBA6CF9B15"
+					item: {
+						count: 1
+						id: "chemica:carbon_fiber_strands"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6F1D1F8AEFACE8F3"]
+			id: "26819DDA8D6AC98A"
+			rewards: [
+				{
+					id: "41A9ADDBAC4C43DD"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 2L
+					id: "1695BB6C4DCFD407"
+					item: {
+						count: 1
+						id: "chemica:electronic_circuit"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
+	]
+}

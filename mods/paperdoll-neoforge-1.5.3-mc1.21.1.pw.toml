@@ -1,0 +1,12 @@
+name = "Paper Doll"
+filename = "paperdoll-neoforge-1.5.3-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/edwFXb9k/versions/vySxPJue/paperdoll-neoforge-1.5.3-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "7491173dd6664528e827d1caef4734cf4cef48c791c498aeabebe605bba871ed80e6d7f9cdcac7beb71031dd0326fe08a905e2d79789b18cba7fcff08865b465"
+
+[option]
+optional = true
+default = true

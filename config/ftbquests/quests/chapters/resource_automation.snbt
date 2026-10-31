@@ -1,0 +1,278 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "resource_automation"
+	group: ""
+	icon: {
+		id: "createsifter:sifter"
+	}
+	id: "749661DF67B670C0"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3D71AFA61AD4E117"
+			rewards: [
+				{
+					id: "3D339CDF8D2D6445"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5D0104EA20946BCF"
+					item: {
+						count: 1
+						id: "create:mechanical_drill"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D71AFA61AD4E117"]
+			id: "764CA684D85432C8"
+			rewards: [
+				{
+					id: "31173860ABFAABC7"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 2L
+					id: "170FDE41A681BA97"
+					item: {
+						count: 1
+						id: "create:crushing_wheel"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3D71AFA61AD4E117"]
+			id: "6816537571119F05"
+			rewards: [
+				{
+					id: "7663D5EA257BD4A4"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5C9A07C7B5C442DA"
+					item: {
+						count: 1
+						id: "createsifter:sifter"
+					}
+					type: "item"
+				}
+				{
+					id: "62DA6ECDDF38EBF0"
+					item: {
+						count: 1
+						id: "createsifter:string_mesh"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6816537571119F05"]
+			id: "67ACCBA3D1C9EDDB"
+			rewards: [
+				{
+					id: "4DFF8D2C6F59E8DD"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3D5257AD90B75EEC"
+					item: {
+						count: 1
+						id: "createsifter:andesite_mesh"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["764CA684D85432C8"]
+			id: "71D346AED6E0238E"
+			rewards: [
+				{
+					id: "73B5E27C721B7905"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5AB9FDFC4BE39A6F"
+					item: {
+						count: 1
+						id: "create:mechanical_mixer"
+					}
+					type: "item"
+				}
+				{
+					id: "163F13D2D4338DEF"
+					item: {
+						count: 1
+						id: "create:basin"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["67ACCBA3D1C9EDDB", "71D346AED6E0238E"]
+			id: "27B30E8200C23C8D"
+			rewards: [
+				{
+					id: "4F4275D19CF853BA"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "074EF85934971B0E"
+					item: {
+						count: 1
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27B30E8200C23C8D"]
+			id: "47506C8DD20C9A10"
+			rewards: [
+				{
+					id: "5E32E296D5977106"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "05EA282D56E7D6B3"
+					item: {
+						count: 1
+						id: "createsifter:zinc_mesh"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "0216FB8B6A4A0E9B"
+			rewards: [
+				{
+					id: "19EFF5A60DE0FC9E"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1F53C1BB976A983B"
+					item: {
+						count: 1
+						id: "create_mechanical_extruder:mechanical_extruder"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0216FB8B6A4A0E9B"]
+			id: "454AFE3E1C014864"
+			rewards: [
+				{
+					id: "2CFE6975DB98CEA4"
+					type: "xp"
+					xp: 75
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "41917C439BB2F858"
+					item: {
+						count: 1
+						id: "createoreexcavation:vein_finder"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["454AFE3E1C014864"]
+			id: "568B0BC07936FEC4"
+			rewards: [
+				{
+					id: "0A0FB3ABCF3863E6"
+					type: "xp"
+					xp: 250
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5A13486E19333DE7"
+					item: {
+						count: 1
+						id: "createoreexcavation:drilling_machine"
+					}
+					type: "item"
+				}
+				{
+					id: "70E5A2815E84B050"
+					item: {
+						count: 1
+						id: "createoreexcavation:drill"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.0d
+		}
+	]
+}

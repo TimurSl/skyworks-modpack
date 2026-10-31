@@ -1,0 +1,361 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "food"
+	group: ""
+	icon: {
+		id: "farmersdelight:cooking_pot"
+	}
+	id: "39CCB32D95EDFDBC"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0873A2AF842F84BC"
+			rewards: [
+				{
+					id: "0938410C09542954"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6FB60F62457F82A0"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0873A2AF842F84BC"]
+			id: "207A6631CA77A8EC"
+			rewards: [
+				{
+					id: "2AF847AFFB519876"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "3AF93D76CBCEFCB3"
+					item: {
+						count: 1
+						id: "farmersdelight:cutting_board"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["207A6631CA77A8EC"]
+			id: "6D0FA79299F60AAC"
+			rewards: [
+				{
+					id: "4646E5A07E0C43A8"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "72C7E6EE363322C9"
+					item: {
+						count: 1
+						id: "farmersdelight:cooking_pot"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D0FA79299F60AAC"]
+			id: "0C31FEEDB9F4C0F8"
+			rewards: [
+				{
+					id: "3FD83F50FF401F89"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "26C5523ADF597B79"
+					item: {
+						count: 1
+						id: "farmersdelight:rice"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "6117481665174663"
+			rewards: [
+				{
+					id: "5D89A4E27BA75CAC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "148C925EBA563E32"
+					item: {
+						count: 1
+						id: "sliceanddice:slicer"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "2270F3906EA75CD8"
+			rewards: [
+				{
+					id: "3AA0945FEB9A43B8"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5046DBCD65C4F9FC"
+					item: {
+						count: 1
+						id: "sliceanddice:sprinkler"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "13BAF85D2022768D"
+			rewards: [
+				{
+					id: "414B3F83F20BF0CC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1A67D5A764E121B2"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "2BD84482972DFE5E"
+			rewards: [
+				{
+					id: "33292F447B2236E9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "2E321B74C1E2E7B7"
+					item: {
+						count: 1
+						id: "brewinandchewin:keg"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2BD84482972DFE5E"]
+			id: "49EA2F7234086678"
+			rewards: [
+				{
+					id: "7C78E81BFA0552D8"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4987734C3D06EE78"
+					item: {
+						count: 1
+						id: "brewinandchewin:beer"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["49EA2F7234086678"]
+			id: "2B5364EB62261241"
+			rewards: [
+				{
+					id: "35A74E5160FC250A"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "635ECDAC930DED7E"
+					item: {
+						count: 1
+						id: "kvassaddon:bread_kvass"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2B5364EB62261241"]
+			id: "048A3F85B99426D5"
+			rewards: [
+				{
+					id: "3379629951F26F25"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4B92E4BAFACECE8F"
+					item: {
+						count: 1
+						id: "cocktailsdelight:mojito"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "73ABCF0CEC3253F5"
+			rewards: [
+				{
+					id: "0715E79BDC6A40B2"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "54FA85631BD1B4D5"
+					item: {
+						count: 1
+						id: "create_winery:red_grape_bush"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["73ABCF0CEC3253F5"]
+			id: "1AF5C624C98B95D0"
+			rewards: [
+				{
+					id: "7D2ECD8AD964F31B"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "46C2A0FE88A563E2"
+					item: {
+						count: 1
+						id: "create_winery:wine_cellar"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1AF5C624C98B95D0"]
+			id: "77A375DCACD0FFE9"
+			rewards: [
+				{
+					id: "024A0C9763E3E699"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "39F214C78B37DFED"
+					item: {
+						count: 1
+						id: "alcohol_industry:alcohol_boiler"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["77A375DCACD0FFE9"]
+			id: "70F6343913A9600F"
+			rewards: [
+				{
+					id: "190D33D131AC611D"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "41213B4FF28FDD85"
+					item: {
+						count: 1
+						id: "alcohol_industry:vodka"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

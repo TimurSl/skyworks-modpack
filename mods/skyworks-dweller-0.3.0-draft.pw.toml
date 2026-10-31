@@ -1,0 +1,8 @@
+name = "Skyworks Dweller (draft)"
+filename = "skyworks-dweller-0.3.0-draft.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/65af322998789913/skyworks-dweller-0.3.0-draft.jar"
+hash-format = "sha512"
+hash = "a6bf0ccad670d1333b5f8f8003fa4d93da953f2c40edfa1db072e69a9698ceebc915d69dc9f8a5bad91c67cf90a1ed34acb327fee85951cdc7333d67030d95c2"

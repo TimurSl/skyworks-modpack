@@ -1,0 +1,12 @@
+name = "Skyworks - Industrial Arcana"
+version = "0.1.2-dev+20261031.0447"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eea2d040326585269c6b06abb46e1217cd37ffb7d7f05d251317870c12da20fd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"

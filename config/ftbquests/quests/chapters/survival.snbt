@@ -1,0 +1,202 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "survival"
+	group: ""
+	icon: {
+		id: "minecraft:oak_sapling"
+	}
+	id: "703BA404AFB6FCB2"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5DC2BDA964E0F365"
+			rewards: [
+				{
+					id: "7A756D37E0174DF3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "0F76BCD794C96AA2"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DC2BDA964E0F365"]
+			id: "3CBA5EAF23BC2E25"
+			rewards: [
+				{
+					id: "3773186442C9E709"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "21D1BCC72BB06225"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3CBA5EAF23BC2E25"]
+			id: "29AD25AD6BB03312"
+			rewards: [
+				{
+					id: "5C8124A8EE66D791"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 64L
+					id: "6B9F2A38DE8B00D5"
+					item: {
+						count: 1
+						id: "minecraft:cobblestone"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3CBA5EAF23BC2E25"]
+			id: "6F92F828EC5DE890"
+			rewards: [
+				{
+					id: "7E785084DA64C87A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1FAD0A67F701EBAF"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5DC2BDA964E0F365"]
+			id: "7CF10D61633AF28C"
+			rewards: [
+				{
+					id: "0B804C9D71DE7F71"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "78EAEE00344AC520"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["29AD25AD6BB03312"]
+			id: "414C6F8E8D21CCFE"
+			rewards: [
+				{
+					id: "361A00218B7C9B37"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "13FE9080609680BD"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["414C6F8E8D21CCFE"]
+			id: "48CB630FE4817E70"
+			rewards: [
+				{
+					id: "3064691F0538DFFE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "53103EEF6A2739AF"
+					item: {
+						count: 1
+						id: "minecraft:raw_iron"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F92F828EC5DE890", "48CB630FE4817E70"]
+			id: "2B20660D8E8F4C21"
+			rewards: [
+				{
+					id: "5B1633691DAA1496"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					dimension: "minecraft:the_nether"
+					id: "365EBE7FEF5DBCAE"
+					type: "dimension"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+	]
+}

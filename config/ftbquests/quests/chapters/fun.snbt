@@ -1,0 +1,186 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fun"
+	group: ""
+	icon: {
+		id: "etched:etching_table"
+	}
+	id: "484C50D5A767A23B"
+	order_index: 17
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3DC4C152CC55D9CB"
+			rewards: [
+				{
+					id: "6669A8A5BCE60EB3"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4D9657A055BEB4FC"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "7E3C4A35D05AD2D6"
+			rewards: [
+				{
+					id: "698FAD4A2AE74FF2"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "1E4C718026BA4959"
+					item: {
+						count: 1
+						id: "immersive_paintings:painting"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "2B5987C75259F4F7"
+			rewards: [
+				{
+					id: "668887EE71C9EC90"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "430E465534A0CE2C"
+					item: {
+						count: 1
+						id: "etched:etching_table"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "4E46A1C1C384372B"
+			rewards: [
+				{
+					id: "660E2F328994268C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "766514B6F64A19C9"
+					item: {
+						count: 1
+						id: "createharmonics:andesite_jukebox"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "21007690B1802585"
+			rewards: [
+				{
+					id: "3B5AD51BCB6038BF"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "780509BF47444F4E"
+					type: "checkmark"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "125EB5DB35168DE7"
+			rewards: [
+				{
+					id: "077AEA83D02F0E4C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4CD71F87E858EE3C"
+					item: {
+						count: 1
+						id: "interiors:red_chair"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "6F3007E6EF2FAB11"
+			rewards: [
+				{
+					id: "58104CE4C0928301"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "5A2FF4E0B2F5C6BC"
+					item: {
+						count: 1
+						id: "pipeorgans:diapason"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "6F7B859A75FDDBA3"
+			rewards: [
+				{
+					id: "3A786BA84E31F53E"
+					type: "xp"
+					xp: 50
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "53638609D12D6A2B"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: ""
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "4D7374CABA86D47E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "66AC030929148B70"
+			rewards: [
+				{
+					id: "134A890747E23333"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "gear"
+			optional: true
+			tasks: [
+				{
+					id: "321B9452F7C1B5A0"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66AC030929148B70"]
+			id: "3737F87D389A0418"
+			rewards: [
+				{
+					id: "7360EC1F628A3D8D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "22A8176586AA07AA"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3737F87D389A0418"]
+			id: "55D6A25EDABC69DF"
+			rewards: [
+				{
+					id: "439852B8C29F3C9B"
+					type: "xp"
+					xp: 25
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "601CCA25A703964D"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+	]
+}

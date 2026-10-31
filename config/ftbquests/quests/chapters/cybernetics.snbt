@@ -1,0 +1,712 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cybernetics"
+	group: ""
+	icon: {
+		id: "cyberimplants:cybernetic_core"
+	}
+	id: "549A1F4BC406BB91"
+	order_index: 19
+	quest_links: [ ]
+	quests: [
+		{
+			id: "36F73938F0D8A75F"
+			rewards: [
+				{
+					id: "6D158BD05C7353D0"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "gear"
+			optional: true
+			tasks: [
+				{
+					id: "3128E3459C072DAA"
+					item: {
+						count: 1
+						id: "cyberimplants:field_manual"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["36F73938F0D8A75F"]
+			id: "11BFB4F22BD634E3"
+			rewards: [
+				{
+					id: "53440CF5B55B4A58"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "22AB4DFA513E4079"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["36F73938F0D8A75F"]
+			id: "058EEC1B4A5712A0"
+			rewards: [
+				{
+					id: "71979DCEE09E65B7"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "12ED44EA2564F965"
+					item: {
+						count: 1
+						id: "create:copper_sheet"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7F6CCD06EA3DE257"
+					item: {
+						count: 1
+						id: "create:iron_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["11BFB4F22BD634E3", "058EEC1B4A5712A0"]
+			id: "3093170146DFCD69"
+			rewards: [
+				{
+					id: "203424C862848649"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4A8C01EEB6B5BB53"
+					item: {
+						count: 1
+						id: "create:precision_mechanism"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["058EEC1B4A5712A0"]
+			id: "4C096BC1BE708852"
+			rewards: [
+				{
+					id: "5394C2E1D5EF6CB0"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "31236EB4034F61DE"
+					item: {
+						count: 1
+						id: "cyberimplants:bio_interface_gel_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3093170146DFCD69", "4C096BC1BE708852"]
+			id: "047FD320CC94C71D"
+			rewards: [
+				{
+					id: "258B35E7197FBFEB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "06B319DEB34D1F75"
+					item: {
+						count: 1
+						id: "cyberimplants:implantation_rig"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["047FD320CC94C71D"]
+			id: "5C382ABF6EEBD95A"
+			rewards: [
+				{
+					id: "12F213D20E54BC71"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "0E99FA5EAFB2592B"
+					item: {
+						count: 1
+						id: "cyberimplants:cybernetic_core"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C382ABF6EEBD95A"]
+			id: "136A169C6FD1844F"
+			rewards: [
+				{
+					id: "2720F9796F4D834E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "15529D3C750BD17A"
+					item: {
+						count: 1
+						id: "cyberimplants:impact_dampeners"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["136A169C6FD1844F"]
+			id: "37342F63DD4D8842"
+			rewards: [
+				{
+					id: "1D9894816C836766"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "4678714B36331EA0"
+					item: {
+						count: 1
+						id: "cyberimplants:enhanced_tendons"
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5C382ABF6EEBD95A"]
+			id: "043ADD6730F552D2"
+			rewards: [
+				{
+					id: "14E2F4E45AC4719D"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "72CBE52B6DEA4DDD"
+					item: {
+						count: 1
+						id: "cyberimplants:kinetic_charger"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["043ADD6730F552D2"]
+			id: "6021EFB935392716"
+			rewards: [
+				{
+					id: "4D1E25EFA2A596E2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "6BD407936CC1A6A8"
+					item: {
+						count: 1
+						id: "cyberimplants:magnetic_soles"
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["058EEC1B4A5712A0"]
+			id: "72BDE71486CECCE2"
+			rewards: [
+				{
+					id: "18B6C69BC4928629"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "196AB8ED3437F134"
+					item: {
+						count: 1
+						id: "create:electron_tube"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["72BDE71486CECCE2", "5C382ABF6EEBD95A"]
+			id: "09FAF6DAD988803E"
+			rewards: [
+				{
+					id: "4266B2AABF0B0FCE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "194405B529C1B5C6"
+					item: {
+						count: 1
+						id: "cyberimplants:reflex_booster"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5C382ABF6EEBD95A", "72BDE71486CECCE2"]
+			id: "484856D325735E76"
+			rewards: [
+				{
+					id: "55B276589F266CF2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "54AC91F09A301527"
+					item: {
+						count: 1
+						id: "cyberimplants:deck_chassis"
+					}
+					type: "item"
+				}
+				{
+					id: "5399DDD44354AE00"
+					item: {
+						count: 1
+						id: "cyberimplants:deck_processor"
+					}
+					type: "item"
+				}
+				{
+					id: "7C544B2395782797"
+					item: {
+						count: 1
+						id: "cyberimplants:deck_ram"
+					}
+					type: "item"
+				}
+				{
+					id: "308FB635B4AF5F55"
+					item: {
+						count: 1
+						id: "cyberimplants:deck_storage"
+					}
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["484856D325735E76"]
+			id: "02873DF550E49C6A"
+			rewards: [
+				{
+					id: "341C79207D419775"
+					type: "xp"
+					xp: 100
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "61E30CF843DDE8B8"
+					item: {
+						count: 1
+						id: "cyberimplants:neural_port"
+					}
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5C382ABF6EEBD95A"]
+			id: "31CBBB1555002780"
+			rewards: [
+				{
+					id: "753FFD868A395C5E"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "7D5F3C7439EC213C"
+					item: {
+						count: 1
+						id: "create:blaze_burner"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["31CBBB1555002780"]
+			id: "3974C912809DFDDC"
+			rewards: [
+				{
+					id: "0D1A81F7375597E2"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "260DA2782404E1CA"
+					item: {
+						count: 1
+						id: "create:brass_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3974C912809DFDDC", "72BDE71486CECCE2", "4C096BC1BE708852"]
+			id: "73FF53F5F1401D4D"
+			rewards: [
+				{
+					id: "729525DDDD846A82"
+					type: "xp"
+					xp: 150
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "27CC228A4CA6E860"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["73FF53F5F1401D4D"]
+			id: "12D9F75E3D5FCD93"
+			rewards: [
+				{
+					id: "1A3CDF87219FD70E"
+					type: "xp"
+					xp: 200
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "0CF53FB1BD0C190E"
+					item: {
+						count: 1
+						id: "create:golden_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["12D9F75E3D5FCD93", "3093170146DFCD69"]
+			id: "366E2764B15D35E1"
+			rewards: [
+				{
+					id: "0ACFA08E855802AB"
+					type: "xp"
+					xp: 200
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "7C5BEE53952A1E8D"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["366E2764B15D35E1"]
+			id: "66BF0332DF5E032E"
+			rewards: [
+				{
+					id: "2A566CDFCC054F40"
+					type: "xp"
+					xp: 275
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 8L
+					id: "7B26A5DC3143AFD3"
+					item: {
+						count: 1
+						id: "create:sturdy_sheet"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["366E2764B15D35E1"]
+			id: "74F692CBB751DD8F"
+			rewards: [
+				{
+					id: "5AFB13D2A86DF09A"
+					type: "xp"
+					xp: 275
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "172D558CFD434A7A"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["4C096BC1BE708852", "31CBBB1555002780", "366E2764B15D35E1"]
+			id: "3206CABEBBBD2BB7"
+			rewards: [
+				{
+					id: "0918667A5429C9C5"
+					type: "xp"
+					xp: 275
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "312BBDFD0BA729AB"
+					item: {
+						count: 1
+						id: "cyberimplants:neural_gel_bucket"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3206CABEBBBD2BB7"]
+			id: "03C6819876A29603"
+			rewards: [
+				{
+					id: "682A7115A5CEDDF7"
+					type: "xp"
+					xp: 275
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "57AE2C2F67B5377D"
+					item: {
+						count: 1
+						id: "cyberimplants:neuro_stabilizer"
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["66BF0332DF5E032E", "74F692CBB751DD8F", "3206CABEBBBD2BB7"]
+			id: "3058E43087BA45F2"
+			rewards: [
+				{
+					id: "500662DD786AB77A"
+					type: "xp"
+					xp: 275
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "2F24B8D8B5DC7910"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3058E43087BA45F2"]
+			id: "445D656BD1368D26"
+			rewards: [
+				{
+					id: "48EFFC58A8779260"
+					type: "xp"
+					xp: 400
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "5808E07213DA4357"
+					item: {
+						count: 1
+						id: "minecraft:echo_shard"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["74F692CBB751DD8F"]
+			id: "7A67274EA98F515F"
+			rewards: [
+				{
+					id: "044F2A28721968DF"
+					type: "xp"
+					xp: 400
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					count: 4L
+					id: "3BE8748156C81D3F"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["445D656BD1368D26", "7A67274EA98F515F", "3058E43087BA45F2"]
+			id: "3B9E4F5CD8073BD3"
+			rewards: [
+				{
+					id: "399446F149FCDD5D"
+					type: "xp"
+					xp: 400
+				}
+			]
+			optional: true
+			tasks: [
+				{
+					id: "23E5063D3DA22982"
+					type: "checkmark"
+				}
+			]
+			x: 6.0d
+			y: 17.0d
+		}
+	]
+}

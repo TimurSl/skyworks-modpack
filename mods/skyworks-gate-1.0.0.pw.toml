@@ -1,0 +1,8 @@
+name = "Skyworks Gate"
+filename = "skyworks-gate-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/TimurSl/skyworks-modpack/main/blobs/6e1ac69c69428260/skyworks-gate-1.0.0.jar"
+hash-format = "sha512"
+hash = "c511834f8336b501d969129ddfa631b586b251a958ddae72708946c6021bb7cf9a71d57e99243944530dc6a81d63cc6b1618e8d145d7b521d392259d9438e3f4"
